@@ -3,7 +3,7 @@ site_url: https://wjking0.github.io/killifish/
 site_description: Killifish documentation with Markdown.
 site_author: wking0@gmail.com
 
-repo_url: https://github.com/wjking0/killifish
+#repo_url: https://github.com/wjking0/killifish
 edit_uri: ""
 
 nav:
