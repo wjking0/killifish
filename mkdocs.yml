@@ -1,0 +1,65 @@
+site_name: thekillifish.net
+site_url: https://wjking0.github.io/killifish/
+site_description: Killifish documentation with Markdown.
+site_author: wking0@gmail.com
+
+#repo_url: https://github.com/wjking0/killifish
+edit_uri: ""
+
+nav:
+- Home: index.md
+#- Infusoria:
+#  - Infusoria: infusoria.md
+- Porridge Cultured Vinegar Eels:
+  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp:
+  - Baby Brine Shrimp: bbs.md
+- Grindal Worms:
+  - Grindal Worms: grindal_worms.md
+- White Worms:
+  - White Worms: white_worms.md
+- Fruit fly maggots:
+  - Fruit fly maggots: fruit_flies.md
+- For Sale:
+  - For Sale: For_Sale.md
+- Links:
+  - Links: links.md
+
+#- Infusoria: infusoria.md
+- Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp: bbs.md
+- Grindal Worms: grindal_worms.md
+- White Worms: white_worms.md
+- Fruit fly maggots: fruit_flies.md
+- For Sale: For_Sale.md
+- Links: links.md
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  logo: index_ATTACHMENTS/favicon3.jpg
+  favicon: index_ATTACHMENTS/favicon3.jpg
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+# extra_css:
+#     - css/extra.css
+
+# markdown_extensions:
+#     - toc:
+#         permalink: 
+#     - admonition
+#     - def_list
+#     - mdx_gh_links:
+#         user: mkdocs
+#         repo: mkdocs
+
+# copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+# google_analytics: ['UA-27795084-5', 'mkdocs.org']
+
+plugins:
+    - search
