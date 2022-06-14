@@ -8,8 +8,6 @@ edit_uri: ""
 
 nav:
 - Home: index.md
-#- Infusoria:
-#  - Infusoria: infusoria.md
 - Porridge Cultured Vinegar Eels:
   - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp:
@@ -27,7 +25,8 @@ nav:
 - Links:
   - Links: links.md
 
-#- Infusoria: infusoria.md
+
+
 - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp: bbs.md
 - Grindal Worms: grindal_worms.md
