@@ -22,6 +22,8 @@ nav:
   - Fruit fly maggots: fruit_flies.md
 - For Sale:
   - For Sale: For_Sale.md
+- Pictures:
+  - Pictures: Pictures.md
 - Links:
   - Links: links.md
 
@@ -32,6 +34,7 @@ nav:
 - White Worms: white_worms.md
 - Fruit fly maggots: fruit_flies.md
 - For Sale: For_Sale.md
+- Pictures: Pictures.md
 - Links: links.md
 
 theme:
