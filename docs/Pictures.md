@@ -1,3 +1,5 @@
+### South American Non-annuals
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Anablesoides spec.aff.holmiae GUY-GL 2012:15.jpg" />
   <figcaption>Rivulus (Oditichthys) hartii 'Hosororo' GUY-GL 2012/15</figcaption>
@@ -23,15 +25,24 @@
   <figcaption>Rivulus cylindraceus 'Noir' female</figcaption>
 </figure>
 
+### Roloffia-types
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_viridie_Village_de_Balassou_MG_09-20.png" />
   <figcaption>Nimbapanchax viridie 'Village de Balassou' MG 09-20</figcaption>
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Archiaphyosemion guineense_Lenghe_Curoh_DSC_7057.jpg" />
+  <figcaption>Archiaphyosemion guineense 'Lenghe Curoh' SL93/37</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Scriptaphyosemion_wieseae_Lenghe_Curoh_SL_93-37_DSC_6307.jpg" />
   <figcaption>Scriptaphyosemion wieseae 'Lenghe Curoh' SL 93-37 </figcaption>
 </figure>
+
+### Chromaphyosemion
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Mile4_2.jpg" />
@@ -73,6 +84,8 @@
   <figcaption>Chromaphyosemion bivittatum 'Funge'</figcaption>
 </figure>
 
+### Aphyosemion
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_ottogartneri_CI2015_Mpassa_06.png" />
   <figcaption>Aphyosemion ottogartneri 'Mpassa' CI 2015</figcaption>
@@ -104,6 +117,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaanense_Nord_Nkoleon_DSC_7080.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_celiae_celiae_Teke_HLM_996_DSC_6377.jpg" />
   <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996</figcaption>
 </figure>
@@ -112,6 +130,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_exigoideum_BBW_00-3_DSC_6210.jpg" />
   <figcaption>Aphyosemion exigoideum BBW 00-3</figcaption>
 </figure>
+
+### Fundulopanchax
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_marmoratus_Mbonge_male_07.png" />
@@ -135,7 +155,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_traudeae.jpeg" />
-  <figcaption>Fundulopanchax traudeae?</figcaption>
+  <figcaption>Fundulopanchax mirabilis ?</figcaption>
 </figure>
 
 <figure>
@@ -143,10 +163,14 @@
   <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
 </figure>
 
+### Epiplatys
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epi_fasciolatus_Fandie_OMG_2018_DSC_6288.jpg" />
   <figcaption>Epiplatys fasciolatus 'Fandie' OMG 2018</figcaption>
 </figure>
+
+### Pachypanchax
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Pachpanchax_omalonatus_pair1_reduced.jpeg" />
