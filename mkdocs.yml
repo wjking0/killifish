@@ -7,7 +7,8 @@ site_author: wking0@gmail.com
 edit_uri: ""
 
 nav:
-- Home: index.md
+- Home: 
+  - Home: index.md
 - Porridge Cultured Vinegar Eels:
   - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp:
@@ -26,6 +27,7 @@ nav:
   - Links: links.md
 
 - Home:
+  - Home: index.md
   - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
   - Baby Brine Shrimp: bbs.md
   - Grindal Worms: grindal_worms.md
