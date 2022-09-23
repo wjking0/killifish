@@ -179,13 +179,13 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_traudeae.jpeg" />
-  <figcaption>Fundulopanchax mirabilis ?</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mirabilis_Nchemba_ADL-13_30_DSC_6181.jpg" />
+  <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mirabilis_Nchemba_ADL-13_30_DSC_6181.jpg" />
-  <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_traudeae.jpeg" />
+  <figcaption>Fundulopanchax mirabilis moensis</figcaption>
 </figure>
 
 <figure>
