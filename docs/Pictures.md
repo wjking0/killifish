@@ -108,7 +108,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/fellmani_2.jpeg" />
-  <figcaption>Aphyosemion coeleste</figcaption>
+  <figcaption>Aphyosemion fellmani</figcaption>
 </figure>
 
 <figure>
@@ -117,7 +117,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Ntui_2.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Ntui_2.jpg" />
   <figcaption>Aphyosemion elberti 'N'tui'</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/intermittens_tinto.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/intermittens_tinto.jpeg" />
   <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/annulatus_1.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/annulatus_1.jpeg" />
   <figcaption>Pseudepiplatys annulatus</figcaption>
 </figure>
 
@@ -215,6 +215,6 @@
 ### Nothobranchius
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/notho_kilomberensis.jpeg" />
-  <figcaption>Nothobranchius kilomberensis</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/notho_kilomberensis.jpg" />
+  <figcaption>Nothobranchius kilomberoensis 'Ifakara' TAN 95/4</figcaption>
 </figure>
