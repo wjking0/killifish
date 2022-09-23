@@ -7,7 +7,32 @@ site_author: wking0@gmail.com
 edit_uri: ""
 
 nav:
-- Home: killifish_howtos.md
+- Home: index.md
+- Porridge Cultured Vinegar Eels:
+  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp:
+  - Baby Brine Shrimp: bbs.md
+- Grindal Worms:
+  - Grindal Worms: grindal_worms.md
+- White Worms:
+  - White Worms: white_worms.md
+- Fruit fly maggots:
+  - Fruit fly maggots: fruit_flies.md
+- For Sale:
+  - For Sale: For_Sale.md
+- Pictures:
+  - Pictures: Pictures.md
+- Links:
+  - Links: links.md
+
+- Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp: bbs.md
+- Grindal Worms: grindal_worms.md
+- White Worms: white_worms.md
+- Fruit fly maggots: fruit_flies.md
+- For Sale: For_Sale.md
+- Pictures: Pictures.md
+- Links: links.md
 
 
 theme:
