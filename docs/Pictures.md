@@ -4,5 +4,5 @@
 - [Aphyosemion](Aphyosemion.md)
 - [Fundulopanchax](Fundulopanchax.md)
 - [Epiplatys](Epiplatys.md)
-- [Pachypanchax](Pachpanchax.md)
+- [Pachypanchax](Pachypanchax.md)
 - [Nothobranchius](Nothobranchius.md)
