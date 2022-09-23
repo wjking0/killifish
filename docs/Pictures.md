@@ -17,12 +17,12 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_male.jpg" />
-  <figcaption>Rivulus cylindraceus 'Noir' male</figcaption>
+  <figcaption>Rivulus cylindraceus Noir male</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_female.jpg" />
-  <figcaption>Rivulus cylindraceus 'Noir' female</figcaption>
+  <figcaption>Rivulus cylindraceus Noir female</figcaption>
 </figure>
 
 ### Roloffia-types
@@ -133,7 +133,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_amoenum_Son_Mayo_90_8_DSC_6203.jpg" />
-  <figcaption>Aphyosemion amoenum 'Son Mayo 90-8</figcaption>
+  <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8</figcaption>
 </figure>
 
 <figure>
