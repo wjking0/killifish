@@ -97,6 +97,31 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/australe_10.jpeg" />
+  <figcaption>Aphyosemion australe Gold</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/coeleste_2.jpeg" />
+  <figcaption>Aphyosemion coeleste</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/fellmani_2.jpeg" />
+  <figcaption>Aphyosemion coeleste</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/louessense_1.jpeg" />
+  <figcaption>Aphyosemion louessense</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Ntui_2.jpeg" />
+  <figcaption>Aphyosemion elberti 'N'tui'</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_kekemense_male4.jpg" />
   <figcaption>Aphyosemion kekemense</figcaption>
 </figure>
@@ -163,6 +188,11 @@
   <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/intermittens_tinto.jpg" />
+  <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
+</figure>
+
 ### Epiplatys
 
 <figure>
@@ -170,9 +200,21 @@
   <figcaption>Epiplatys fasciolatus 'Fandie' OMG 2018</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/annulatus_1.jpg" />
+  <figcaption>Pseudepiplatys annulatus</figcaption>
+</figure>
+
 ### Pachypanchax
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Pachpanchax_omalonatus_pair1_reduced.jpeg" />
   <figcaption>Pachpanchax omalonatus</figcaption>
+</figure>
+
+### Nothobranchius
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/notho_kilomberensis.jpeg" />
+  <figcaption>Nothobranchius kilomberensis</figcaption>
 </figure>
