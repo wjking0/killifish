@@ -185,7 +185,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_traudeae.jpeg" />
-  <figcaption>Fundulopanchax mirabilis moensis</figcaption>
+  <figcaption>Fundulopanchax moensis</figcaption>
 </figure>
 
 <figure>
