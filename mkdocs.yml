@@ -37,6 +37,7 @@ nav:
   - Pictures: Pictures.md
   - Links: links.md
 
+
 theme:
   name: material
   palette:
