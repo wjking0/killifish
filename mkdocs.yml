@@ -25,14 +25,15 @@ nav:
 - Links:
   - Links: links.md
 
-- Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-- Baby Brine Shrimp: bbs.md
-- Grindal Worms: grindal_worms.md
-- White Worms: white_worms.md
-- Fruit fly maggots: fruit_flies.md
-- For Sale: For_Sale.md
-- Pictures: Pictures.md
-- Links: links.md
+- Home:
+  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+  - Baby Brine Shrimp: bbs.md
+  - Grindal Worms: grindal_worms.md
+  - White Worms: white_worms.md
+  - Fruit fly maggots: fruit_flies.md
+  - For Sale: For_Sale.md
+  - Pictures: Pictures.md
+  - Links: links.md
 
 theme:
   name: material
