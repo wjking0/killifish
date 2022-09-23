@@ -12,9 +12,6 @@ build:
 		@echo ''
 
 deploy:
-		git add -A
-		@echo git commit new files
-		git commit -m "new files added"
 		@echo Cleaning site dir
 		rm -rf site/
 		@echo Building docs
