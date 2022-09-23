@@ -48,6 +48,7 @@ theme:
   favicon: index_ATTACHMENTS/favicon3.jpg
 
   features:
+    - content.code.annotate
     - navigation.expand
     - navigation.sections
     - navigation.tabs
