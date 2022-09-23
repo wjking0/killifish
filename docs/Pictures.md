@@ -175,7 +175,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gardneri_nigerianus_gold.jpg" />
-  <figcaption>Fundulopanchax nigerianus</figcaption>
+  <figcaption>Fundulopanchax gardenri nigerianus</figcaption>
 </figure>
 
 <figure>
