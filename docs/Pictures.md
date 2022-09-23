@@ -103,17 +103,17 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/coeleste_2.jpeg" />
-  <figcaption>Aphyosemion coeleste</figcaption>
+  <figcaption>Aphyosemion coeleste GAB BBA 90-32</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/fellmani_2.jpeg" />
-  <figcaption>Aphyosemion fellmani</figcaption>
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/louessense_1.jpeg" />
-  <figcaption>Aphyosemion louessense</figcaption>
+  <figcaption>Aphyosemion louessense RPC 78-33</figcaption>
 </figure>
 
 <figure>
