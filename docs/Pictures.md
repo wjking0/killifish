@@ -138,7 +138,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_calliarum_Majidun_17-12.jpeg" />
-  <figcaption>Aphyosemion calliarum 'Majidun' 17-12</figcaption>
+  <figcaption>Aphyosemion calliurum 'Majidun' 17-12</figcaption>
 </figure>
 
 <figure>
