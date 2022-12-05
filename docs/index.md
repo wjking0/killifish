@@ -5,7 +5,7 @@
   <figcaption>Chromaphyosemion bitaeniatum male</figcaption>
 </figure>
 
-## Introduction:
+## Introduction
 
 A walk into your Local Fish Shop (LFS) will reveal tanks upon tanks of livebearers, cichlids, tetras, catfish, goldfish, anabantoids even many oddball fish like fire eels or snakeheads but sadly very few species of killifish. This gives rise to the impression that killifish are somehow difficult to keep and breed, this is in fact far from the truth.
 
@@ -23,7 +23,7 @@ Rule number 1 for killifish keeping has to be to use a tight fitting lid on all 
 
 With literally 1000s of species to choose from killifish culture can be an interest to last a lifetime. The real joy in keeping killifish is the breeding and raising of fish and killifish are a great group for home fish culture.
 
-## Feeding Adults:
+## Feeding Adults
 
 White worms, grindal worms, daphnia, bloodworms, tubifex, mosquito larvae, flightless fruit fly, frozen or freeze-dried foods, and good quality fish flakes/pellets are all happily taken by the adults.
 A varied diet is always good and live foods are needed to condition the fish for breeding. Worms for some reason really stimulate egg production.
@@ -78,20 +78,20 @@ Snails are you friend in the fry tank (ramshorns, trumpets, bladder snail) they 
 
 Something I like to do in the fry tanks is add some daphnia if I have some either from a small pool or from the pet shop. Baby daphnia can be used as supplemntary food. Larger daphnia will survive in the fry tank for a few weeks and hopefully producing more babies for your fry to feed on.
 
-## Sourcing eggs:
+## Sourcing eggs
 
 Get an account on [http://www.aquabid.com](http://www.aquabid.com) and check society egg lists. Generally you are better off buying eggs in the summer months especially internationally. Be wary of adverts that don't specify the number of eggs being sold and look for sellers that have many buyers. It is impossible to guarantee killifish eggs in the post any cold snap or extended delay is likely to reduce/eliminate viability.
 
-## Sourcing fish:
+## Sourcing fish
 
 Despite everything said in the introduction your first pair of killifish you get are likely to be from an LFS. Many of the better LFS shops will sell killifish if you hunt around. Common killifish found in LFS shops are (Fp. gardneri, Aphyosmeion australe, Golden Wonder (Striped Panchax), Florida flagfish (Jordanella floridae). These are all good starter killifish. Golden Wonders do have large mouths and can be tempted to feed on smaller fish/fry. Something I am keen to do is to keep a varied collection of killifish rather than to specialise in one group. With this it is possible to keep fry from different groups together, you need to be very careful doing this but it does mean you can cut down on the number of fry tanks you have. I often mix fry from Chromaphyosemions with Aphyosemions or Fundulopanchax with a Rivulus type. Make sure you are familiar with the adult females and that they are easily distinguishable, as long as their sizes are comparable they should be happy in a tank together.
 
-## Diving for Pearls:
+## Diving for Pearls
 
 Equipment: Light, strong glasses 3.00-5.00 magnification, eye-brow tweezers. It is always a thrill finding eggs. It does take some adjustment to get your eye in. Whilst killifish eggs are usually hard enough to be touched by hand, this is not recommended as our fingers are likely to transfer fungus spores.
 Eye-brow tweezers curve together at the tip and are great for picking eggs. Hook the egg between the tweezers and gently teaze/ roll the eggs out of the yarn.
 
-## Egg incubation:
+## Egg incubation
 
 The big problem here is fungus. Fertile eggs shouldn't really fungus unless damaged. However any egg that does fungus can quickly cross-contaminate others healthy eggs. Eggs in a dish in liquid have a tendency to roll together and any fungus eggs will send out filaments that quickly snare healthy eggs.
 I have a dedicated 1 litre bottle which I add a commercially available solution called fungistop (Tetra) to at 2 drops/litre. I also add a very small amount of salt to this ~1/16 teaspoon to help prevent velvet.
@@ -99,24 +99,24 @@ I store the eggs in well labelled margarine/take-away tubs. If you do see eggs g
 If you start to have big issues with fungus you should water incubate the eggs over a substrate (I would recommend sterilized coir). The eggs sink into the susbtrate and don't roll together with this method fungussed eggs are physically separated from good quality eggs. The only downside to this is its harder to see the eggs mature.
 Another mechanism useful for egg incubation is to instead of water incubating is to store on directly onto damp peat/coir. This has several advantages (1) any mouldy eggs can easily be removed (2) You can now easily watch the eggs develop (3) If you add water when all eggs are fully developed you will get an even hatch and the fry will be of an even size which will help reduce fry on fry aggression. (4) Storing the eggs this way is also useful if you want to sell or post them as they are ready to be counted and bagged up.
 
-## Annuals:
+## Annuals
 
 I would suggest to avoid trying annuals until you are familiar with non-annuals. You may get lucky and find you are a dab-hand with them, but my suspicion is that most annual keepers have been keeping killifish for some time and started on non-annuals.
 If you do try annuals get the eggs from a reliable source. Someone on Aquabid who apppears to be a popular seller or a BKA/AKA club seller. Unfortunately there are people who will be happy to sell you bags of peat. Whilst this is also true of non-annuals, the fact that you will likely be incubating the eggs yourselves after arrival means any issues to an untrained eye are not immediately apparent.
 I would also suggest starting on species that have short incubation times (~2 months) and produce large fry. e.g. Nothobranchius guentheri. Watch for eggs eyeing-up before adding water. The eyes look like little golden dots or rings inside the substrate. I would also suggest if anything leaving the eggs slightly longer than the recommended incubation times especially if not storing with some heat. It is very tempting to wet the eggs early when new and keen and you run the risk of having immmature fry i.e. belly-sliders.
 
-## Fry Containers:
+## Fry Containers
 
 I used to use chinese take-away tubs, I liked the fact they were a free and plentiful source. It is however labour intensive keeping many small containers clean. So perhaps a better option are small 2l plastic containers. Create a hole in the corner of the lid with which to pipette food in. You can also use large open topped glass jars of a similar volume. You may want to add filtration and with the explosion of Nano tank cultures very small sponge filters are now available.
 
-## Troubleshooting mouldy eggs:
+## Troubleshooting mouldy eggs
 
 - Change your incubation method, try using a substrate to reduce the ability of mouldy eggs contaminating any healthy eggs.
 - Clean the tank water, mops, instruments,
 - Harvest the eggs with more care, try using tweezers.
 - Are the fish still quite young? if you can try changing the male that you are using.
 
-## Troubleshooting lack of eggs:
+## Troubleshooting lack of eggs
 
 - Give the tank a healthy water change.
 - Check the temperature that the fish are at, Do you need to add a heater and increase the temperature?
@@ -125,12 +125,12 @@ I used to use chinese take-away tubs, I liked the fact they were a free and plen
 - If all else fails start to think about changing other water parameter if you can.
 - Feed with white worms.
 
-## Equipment:
+## Equipment
 
 Brine Shrimp Hatchery, Brine shrimp sieve, Airline, airline taps - get many and use them liberally, airpump, Glasses 3.00-5.00 magnification, 2 eye-brow tweezers one for picking eggs, one for picking worms. Small paint brushes,
 Margarine tubs, Acrylic yarn, corks, Fingistop, turkey baster (for fry tank cleaning). Nano tank siphon. Small paint brushes, pippettes, small net.
 
-## Consumables:
+## Consumables
 
 Labels (small and large) - used to label species names, number of eggs collected, when last cleaned.
 

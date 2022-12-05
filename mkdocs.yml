@@ -7,22 +7,15 @@ site_author: wking0@gmail.com
 edit_uri: ""
 
 nav:
-- Home: 
-  - Home: index.md
-- Porridge Cultured Vinegar Eels:
-  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-- Baby Brine Shrimp:
-  - Baby Brine Shrimp: bbs.md
-- Grindal Worms:
-  - Grindal Worms: grindal_worms.md
-- White Worms:
-  - White Worms: white_worms.md
-- Fruit fly maggots:
-  - Fruit fly maggots: fruit_flies.md
-- For Sale:
-  - For Sale: For_Sale.md
-- Pictures:
-  - Pictures: Pictures.md
+- thekillifish.net:  index.md
+- Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp: bbs.md
+- Grindal Worms: grindal_worms.md
+- White Worms: white_worms.md
+- Fruit fly maggots: fruit_flies.md
+- Infusoria: infusoria.md
+- For Sale: For_Sale.md
+- Pictures: 
   - South American non-annuals: SA_non_annuals.md
   - Roloffia-types: Roloffia.md
   - Chromaphyosemion: Chromaphyosemion.md
@@ -31,19 +24,18 @@ nav:
   - Epiplatys: Epiplatys.md
   - Pachypanchax: Pachypanchax.md
   - Nothobranchius: Nothobranchius.md
-- Links:
-  - Links: links.md
+- Links: links.md
 
-- Home:
-  - Home: index.md
-  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-  - Baby Brine Shrimp: bbs.md
-  - Grindal Worms: grindal_worms.md
-  - White Worms: white_worms.md
-  - Fruit fly maggots: fruit_flies.md
-  - For Sale: For_Sale.md
-  - Pictures: Pictures.md
-  - Links: links.md
+#- Home:
+#  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+#  - Home: index.md
+#  - Baby Brine Shrimp: bbs.md
+#  - Grindal Worms: grindal_worms.md
+#  - White Worms: white_worms.md
+#  - Fruit fly maggots: fruit_flies.md
+#  - For Sale: For_Sale.md
+#  - Pictures: Pictures.md
+#  - Links: links.md
 
 
 theme:
