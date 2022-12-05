@@ -10,6 +10,12 @@
   <figcaption>Epiplatys rolloffi RL99</figcaption>
 </figure>
 
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_rathkei_8144.jpeg" />
+  <figcaption>Epiplatys infrafasciatus rathkei</figcaption>
+</figure>
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/annulatus_1.jpeg" />
   <figcaption>Pseudepiplatys annulatus</figcaption>
