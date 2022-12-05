@@ -7,7 +7,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_rolloffi_8169.jpeg" />
-  <figcaption>Epiplatys rolloffi RL99</figcaption>
+  <figcaption>Epiplatys roloffi 'Kolahu' RL99</figcaption>
 </figure>
 
 
