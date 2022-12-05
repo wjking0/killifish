@@ -14,6 +14,9 @@ build:
 deploy:
 		@echo Cleaning site dir
 		rm -rf site/
+		git add -A
+		git commit -a -m "commit via Makefile"
+		git push
 		@echo Building docs
 		mkdocs gh-deploy
 
