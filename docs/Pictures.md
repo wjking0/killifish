@@ -1,8 +1,0 @@
-- [South American Non-annuals](SA_non_annuals.md)
-- [Roloffia-types](Roloffia.md)
-- [Chromaphyosemion](Chromaphyosemion.md)
-- [Aphyosemion](Aphyosemion.md)
-- [Fundulopanchax](Fundulopanchax.md)
-- [Epiplatys](Epiplatys.md)
-- [Pachypanchax](Pachypanchax.md)
-- [Nothobranchius](Nothobranchius.md)
