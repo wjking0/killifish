@@ -37,10 +37,10 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_8349.jpeg" />
-  <figcaption>Fundulopanchax filamentosus 'Ikeja young male'</figcaption>
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' young male</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_female_8348.jpeg" />
-  <figcaption>Fundulopanchax filamentosus 'Ikeja young female'</figcaption>
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' young female</figcaption>
 </figure>
