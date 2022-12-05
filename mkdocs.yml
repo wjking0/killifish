@@ -8,13 +8,12 @@ edit_uri: ""
 
 nav:
 - thekillifish.net:  index.md
+- Infusoria: infusoria.md
 - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp: bbs.md
 - Grindal Worms: grindal_worms.md
 - White Worms: white_worms.md
 - Fruit fly maggots: fruit_flies.md
-- Infusoria: infusoria.md
-- For Sale: For_Sale.md
 - Pictures: 
   - South American non-annuals: SA_non_annuals.md
   - Roloffia-types: Roloffia.md
@@ -25,6 +24,7 @@ nav:
   - Pachypanchax: Pachypanchax.md
   - Nothobranchius: Nothobranchius.md
 - Links: links.md
+- For Sale: For_Sale.md
 
 #- Home:
 #  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
