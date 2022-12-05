@@ -4,7 +4,7 @@ Infusoria or paramecium can be tricky to culture even if you follow the recipe c
 
 ### Method
 
-1. buy or find a large quantity of Sphagnum moss.  It can be bought at florists as it is used for hanging baskets.
+1. Buy or find a large quantity of Sphagnum moss.  It can be bought at florists as it is used for hanging baskets.
 2. Wash the Sphagnum moss thoroughly in cold tap water.
 3. Fill a sweet jar with it nd add water to the top, add the lid to the sweet jar (as it does get smelly).
 4. After about a month you should start to see Infusoria 'swimming' at the surface.
