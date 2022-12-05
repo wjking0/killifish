@@ -1,7 +1,7 @@
 ### Chromaphyosemion
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Mile4_8336.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Mile4_8326.jpeg" />
   <figcaption>Chromaphyosemion volcanum 'Mile 4' JVC05</figcaption>
 </figure>
 
@@ -11,7 +11,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_8275.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_8306.jpeg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14</figcaption>
 </figure>
 
