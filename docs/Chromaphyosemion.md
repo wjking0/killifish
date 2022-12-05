@@ -1,7 +1,7 @@
 ### Chromaphyosemion
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTSChromaphyosemion_volcanum_Mile4_8336.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Mile4_8336.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Mile 4' JVC05</figcaption>
 </figure>
 
