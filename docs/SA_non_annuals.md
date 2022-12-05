@@ -16,7 +16,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_male.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_8189.jpeg" />
   <figcaption>Rivulus cylindraceus Noir male</figcaption>
 </figure>
 

@@ -34,3 +34,13 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/intermittens_tinto.jpeg" />
   <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_8349.jpeg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja young male'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_female_8348.jpeg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja young female'</figcaption>
+</figure>

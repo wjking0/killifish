@@ -16,6 +16,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_australe_gold_8092.jpeg" />
+  <figcaption>Aphyosemion australe Gold</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/coeleste_2.jpeg" />
   <figcaption>Aphyosemion coeleste GAB BBA 90-32</figcaption>
 </figure>
@@ -53,6 +58,11 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_calliarum_Majidun_17-12.jpeg" />
   <figcaption>Aphyosemion calliurum 'Majidun' 17-12</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_calliurum_Akio_river_8057.jpeg" />
+  <figcaption>Aphyosemion calliurum 'Akio River'</figcaption>
 </figure>
 
 <figure>

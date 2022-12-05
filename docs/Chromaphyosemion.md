@@ -1,8 +1,20 @@
 ### Chromaphyosemion
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/
+Chromaphyosemion_volcanum_Mile4_8336.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Mile 4' JVC05</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Mile4_2.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Mile 4' JVC05</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/
+Chromaphyosemion_volcanum_Kompina_8275.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14</figcaption>
 </figure>
 
 <figure>

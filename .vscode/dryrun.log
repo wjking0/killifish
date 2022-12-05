@@ -1,9 +1,5 @@
 make --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/kingwill/killifish'
-git add -A
-echo git commit new files
-git commit -m "new files added"
-git push
 echo Cleaning site dir
 rm -rf site/
 echo Building docs
