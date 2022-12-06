@@ -42,7 +42,17 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_kekemense_male4.jpg" />
-  <figcaption>Aphyosemion kekemense</figcaption>
+  <figcaption>Aphyosemion kekemense [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_kekemense_8241.jpg" />
+  <figcaption>Aphyosemion kekemense [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_kekemense_female_8219.jpeg" />
+  <figcaption>Aphyosemion kekemense female</figcaption>
 </figure>
 
 <figure>
