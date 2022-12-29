@@ -93,20 +93,24 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichoperus.jpg" />
-  <figcaption>(SA19) Terranatos_dolichoperus</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichopterus.jpg" />
+  <figcaption>(SA19) Terranatos_dolichopterus</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichoperus_3.jpg" />
-  <figcaption>(SA20) Terranatos_dolichoperus</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichopterus_3.jpg" />
+  <figcaption>(SA20) Terranatos_dolichopterus</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichoperus_2.jpg" />
-  <figcaption>(SA21) Terranatos_dolichoperus</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Terranatos_dolichopterus_2.jpg" />
+  <figcaption>(SA21) Terranatos_dolichopterus</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Campellolebias_brucei.jpg" />
+  <figcaption>(SA22) Campellolebias_brucei</figcaption>
+</figure>
 
 ### Aphyosemions
 <figure>
@@ -204,8 +208,8 @@
 ### Fundulopanchax
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_scheeli?.jpg" />
-  <figcaption>(F1) Fundulopanchax_scheeli?</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_scheeli.jpg" />
+  <figcaption>(F1) Fundulopanchax_scheeli</figcaption>
 </figure>
 
 <figure>
@@ -221,7 +225,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Pronothobranchius_kiyewensis.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Pronothobranchius_kiyawensis.jpg" />
   <figcaption>(N2) Pronothobranchius_kiyewensis</figcaption>
 </figure>
 
