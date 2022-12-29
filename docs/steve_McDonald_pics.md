@@ -1,4 +1,6 @@
-### Epiplatys
+### Steve McDonalds photos
+
+### South American Annuals
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyolebias_peruensis_3.jpg" />
@@ -15,6 +17,8 @@
   <figcaption>(3) Aphyolebias_peruensis</figcaption>
 </figure>
 
+### Aphyosemions
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/A_polli_2.jpg" />
   <figcaption>(4) Aphyosemion polli</figcaption>
@@ -24,6 +28,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/A_polli.jpg" />
   <figcaption>(5) Aphyosemion polli</figcaption>
 </figure>
+
+### Nothobranchius
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Pronothobranchius_kiyewensis_2.jpg" />
