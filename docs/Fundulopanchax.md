@@ -37,10 +37,20 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_8349.jpeg" />
-  <figcaption>Fundulopanchax filamentosus 'Ikeja' young male</figcaption>
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [1] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8790_filamentosum_cropped_male.png" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' young male [2] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8568_filamentosum_female.png" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' female (NOTE:large anal fin for egg ploughing) [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_filamentosis_Ikeja_female_8348.jpeg" />
-  <figcaption>Fundulopanchax filamentosus 'Ikeja' young female, (NOTE:large anal fin for egg ploughing)</figcaption>
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' young female [2]</figcaption>
 </figure>

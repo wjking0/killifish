@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Thu Dec 29 22:58:33 2022
+# Make data base, printed on Thu Jan 19 15:04:10 2023
 
 # Variables
 
@@ -65,7 +65,7 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/e8a3071ea4344d9d48ef8a4df2c097372b0c5161
 # environment
 LOGNAME = kingwill
 # environment
@@ -95,9 +95,10 @@ MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
 # environment
 TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
+ 
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.74.1-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.74.2-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -107,13 +108,12 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.14358111.14358118
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.14436211.14436217
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
- 
 +F = $(notdir $+)
 # environment
 HOMEBREW_REPOSITORY = /opt/homebrew
@@ -138,7 +138,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 58521
+VSCODE_PID = 73598
 # variable set hash-table stats:
 # Load=62/1024=6%, Rehash=0, Collisions=1/86=1%
 
@@ -181,7 +181,7 @@ all:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-12-06 16:27:18
+#  Last modified 2022-12-29 23:02:10
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -224,9 +224,6 @@ deploy:
 #  commands to execute (from `Makefile', line 15):
 	@echo Cleaning site dir
 	rm -rf site/
-	git add -A
-	git commit -a -m "commit via Makefile"
-	git push
 	@echo Building docs
 	mkdocs gh-deploy
 	
@@ -253,6 +250,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Dec 29 22:58:33 2022
+# Finished Make data base on Thu Jan 19 15:04:10 2023
 
  

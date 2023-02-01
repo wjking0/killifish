@@ -26,8 +26,18 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8678_fellmani_cropped.png" />
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8690_fellmani_cropped.png" />
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [2] </figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/fellmani_2.jpeg" />
-  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15</figcaption>
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [3] </figcaption>
 </figure>
 
 <figure>
@@ -66,8 +76,13 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8606_calliurum_mij_cropped_good.png" />
+  <figcaption>Aphyosemion calliurum 'Majidun' 17-12 [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_calliarum_Majidun_17-12.jpeg" />
-  <figcaption>Aphyosemion calliurum 'Majidun' 17-12</figcaption>
+  <figcaption>Aphyosemion calliurum 'Majidun' 17-12 [2]</figcaption>
 </figure>
 
 <figure>
