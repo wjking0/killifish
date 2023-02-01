@@ -104,3 +104,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_exigoideum_BBW_00-3_DSC_6210.jpg" />
   <figcaption>Aphyosemion exigoideum BBW 00-3</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/hera_fry.jpeg" />
+  <figcaption>Aphyosemion hera 'Bengui' GJS 2000-29 fry </figcaption>
+</figure>

@@ -21,6 +21,21 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Riv_cylindraceus_headon.jpeg" />
+  <figcaption>Rivulus cylindraceus Noir male</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_female.jpg" />
   <figcaption>Rivulus cylindraceus Noir female</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/riv_cylindraceus_fry.jpeg" />
+  <figcaption>Rivulus cylindraceus Noir fry [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/riv_cylindraceus_fry2.jpeg" />
+  <figcaption>Rivulus cylindraceus Noir fry [2]</figcaption>
 </figure>
