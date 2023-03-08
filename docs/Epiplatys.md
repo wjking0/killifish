@@ -10,6 +10,10 @@
   <figcaption>Epiplatys roloffi 'Kolahu' RL99</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpeg" />
+  <figcaption>Epiplatys sexfasciatus togolensis</figcaption>
+</figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_rathkei_8144.jpeg" />
