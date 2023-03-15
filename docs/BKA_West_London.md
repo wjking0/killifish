@@ -1,6 +1,3 @@
-### Pachypanchax
+### West London Auction Sheets
 
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Pachpanchax_omalonatus_pair1_reduced.jpeg" />
-  <figcaption>Pachpanchax omalonatus</figcaption>
-</figure>
+[West_London_Auction_Sheet_2023.xlsx](https://thekillifish.net/index_ATTACHMENTS/West_London_Auction_Sheet_2023.xlsx)
