@@ -51,7 +51,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_Muea.png" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_Muea.jpg" />
   <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_riggenbachi_Yabassi.jpg" />
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 </figcaption>
 </figure>
 

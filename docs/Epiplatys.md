@@ -26,7 +26,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpeg" />
   <figcaption>Epiplatys sexfasciatus togolensis [4]</figcaption>
 </figure>
 
