@@ -1,10 +1,12 @@
-### West London Auction Sheets
+### BKA West London
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/W_Molesey_Auction_Flyer_A5.jpg" />
 </figure>
 
 [Facebook info link](https://bit.ly/westlondonkilliauction)
+
+## West London Auction Sheet
 
 [West_London_Auction_Sheet_2023.xlsx](https://thekillifish.net/index_ATTACHMENTS/West_London_Auction_Sheet_2023.xlsx)
 

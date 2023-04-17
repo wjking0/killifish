@@ -16,6 +16,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Mabanda.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Mabanda' CITA22/2</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_8306.jpeg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [1]</figcaption>
 </figure>
@@ -26,12 +31,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Ekondo_Titi_6431.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8818_volcanum_good_cropped.png" />
   <figcaption>Chromaphyosemion volcanum 'Ekondo Titi' CB3SR07/21 [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8818_volcanum_good_cropped.png" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Ekondo_Titi_6431.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Ekondo Titi' CB3SR07/21 [2]</figcaption>
 </figure>
 
@@ -46,8 +51,18 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_Muea.png" />
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp.jpg" />
   <figcaption>Chromaphyosemion splendopleure 'Tiko Big Ikange Camp'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp.jpg" />
+  <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 </figcaption>
 </figure>
 
 <figure>

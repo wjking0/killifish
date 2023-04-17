@@ -11,8 +11,38 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpeg" />
-  <figcaption>Epiplatys sexfasciatus togolensis</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis.jpg" />
+  <figcaption>Epiplatys sexfasciatus togolensis [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis_2.jpg" />
+  <figcaption>Epiplatys sexfasciatus togolensis [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis_3.jpg" />
+  <figcaption>Epiplatys sexfasciatus togolensis [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpg" />
+  <figcaption>Epiplatys sexfasciatus togolensis [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis_female.jpg" />
+  <figcaption>Epiplatys sexfasciatus togolensis female</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_Lobe.jpg" />
+  <figcaption>Epiplatys sp. Lobe CIIR 2018</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_Lobe_female.jpg" />
+  <figcaption>Epiplatys sp. Lobe CIIR 2018 female</figcaption>
 </figure>
 
 <figure>
