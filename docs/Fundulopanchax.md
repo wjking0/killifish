@@ -31,6 +31,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gresensi_Takwei_male0633_GOOD_cropped.jpg" />
+  <figcaption>Fundulopanchax gresensi 'Takwei'</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/intermittens_tinto.jpeg" />
   <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
 </figure>

@@ -6,6 +6,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/fransvermueleni_0942_OK_cropped.jpg" />
+  <figcaption>Rivulus (Anablepsoides) fransvermeuleni "SUR 2010-03, Bakhuis"</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Cynodonichthys_chucunaque_Pan_12-01_DSC_6229.jpg" />
   <figcaption>Cynodonichthys chucunaque 'Pan' 12-01</figcaption>
 </figure>
@@ -16,18 +21,28 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/cylindraceus_noir_0795_GOOD_cropped.jpg" />
+  <figcaption>Rivulus cylindraceus Noir male [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_8189.jpeg" />
-  <figcaption>Rivulus cylindraceus Noir male</figcaption>
+  <figcaption>Rivulus cylindraceus Noir male [2] </figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Riv_cylindraceus_headon.jpeg" />
-  <figcaption>Rivulus cylindraceus Noir male</figcaption>
+  <figcaption>Rivulus cylindraceus Noir male Head-on [3] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/cylindraceus_noir_female_0876_OK_cropped.jpg" />
+  <figcaption>Rivulus cylindraceus Noir female [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Rivulus_cylindraceus_noir_female.jpg" />
-  <figcaption>Rivulus cylindraceus Noir female</figcaption>
+  <figcaption>Rivulus cylindraceus Noir female [2]</figcaption>
 </figure>
 
 <figure>

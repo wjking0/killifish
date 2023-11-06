@@ -14,3 +14,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Scriptaphyosemion_wieseae_Lenghe_Curoh_SL_93-37_DSC_6307.jpg" />
   <figcaption>Scriptaphyosemion wieseae 'Lenghe Curoh' SL 93-37 </figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/scriptaphyosemion_schmitti_male_0586_OK.JPG" />
+  <figcaption>Scriptaphyosemion schmitti 'Jurazon' </figcaption>
+</figure>
