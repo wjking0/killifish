@@ -10,10 +10,11 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Mon Nov  6 15:59:55 2023
+# Make data base, printed on Thu Nov 30 09:42:58 2023
 
 # Variables
 
+ 
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
 # automatic
@@ -27,7 +28,6 @@ VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # automatic
 @F = $(notdir $@)
 # makefile
- 
 CURDIR := /Users/kingwill/killifish
 # makefile
 SHELL = /bin/sh
@@ -44,7 +44,7 @@ INFOPATH = /opt/homebrew/share/info:
 # environment
 VSCODE_CWD = /
 # environment
-PATH = /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
+PATH = /Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # default
@@ -68,7 +68,7 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/fdb98833154679dbaa7af67a5a29fe19e55c2b73
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/2b35e1e6d88f1ce073683991d1eff5284a32690f
 # environment
 LOGNAME = kingwill
 # environment
@@ -100,7 +100,7 @@ TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.82-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.84-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -110,7 +110,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.58303023.58303029
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.63505847.63505855
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -140,7 +140,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 34065
+VSCODE_PID = 63597
 # variable set hash-table stats:
 # Load=63/1024=6%, Rehash=0, Collisions=1/87=1%
 
@@ -170,9 +170,9 @@ all:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
 .PHONY: serve build deploy clean
- 
 #  Implicit rule search has not been done.
 #  Modification time never checked.
+ 
 #  File has not been updated.
 
 # Not a target:
@@ -253,6 +253,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Mon Nov  6 15:59:55 2023
+# Finished Make data base on Thu Nov 30 09:42:58 2023
 
  
