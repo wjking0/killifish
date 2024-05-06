@@ -11,7 +11,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_cinnamomeus_flare.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-F_cinnamomeus_Flare_DSC_2171-Enhanced-NR.jpg" />
   <figcaption>Fundulopanchax cinnamomeus male</figcaption>
 </figure>
 

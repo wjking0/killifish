@@ -6,7 +6,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_pyrophore_komono.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-A_pyrophore_Kimono_DSC_3887-Enhanced-NR.jpg" />
   <figcaption>Aphyosemion pyrophore 'Komono' yellow</figcaption>
 </figure>
 
