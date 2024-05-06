@@ -6,7 +6,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Mile4_8326.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8326-Chromaphyosemion_volcanum_mile4_Enhanced-NR.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Mile 4' JVC05 [2]</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_COS_2015__Meanja_07.png" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-Chrom_poliaki_Meanja_DSC_5139.jpg" />
   <figcaption>Chromaphyosemion poliaki 'Meanja' COS 2015/01 [2]</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-Chrom_bitaeniatum_DSC_1919" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-Chrom_bitaeniatum_DSC_1919.jpg" />
   <figcaption>Chromaphyosemion bitaeniatum 'Ijebu Ode'</figcaption>
 </figure>
 

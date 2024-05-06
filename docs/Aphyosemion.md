@@ -1,7 +1,7 @@
 ### Aphyosemion
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_ottogartneri_CI2015_Mpassa_06.png" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4930-ottogartneri_Enhanced-NR.jpg" />
   <figcaption>Aphyosemion ottogartneri 'Mpassa' CI 2015</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/coeleste_2.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-A_coeleste_DSC_7818-Enhanced-NR.jpg" />
   <figcaption>Aphyosemion coeleste GAB BBA 90-32</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Ntui_2.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7833-aphyosemion_elberti_Enhanced-NR.jpg" />
   <figcaption>Aphyosemion elberti 'N'tui'</figcaption>
 </figure>
 
@@ -66,12 +66,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_ogoense_pyrophore_FCCO_11_14_03.png" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4995-A_pyrophore_Enhanced-NR.jpg" />
   <figcaption>Aphyosemion ogoense FCO 11/14</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_amoenum_Son_Mayo_90_8_DSC_6203.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_ammonium_DSC_6203.jpg" />
   <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8</figcaption>
 </figure>
 
@@ -111,12 +111,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_celiae_celiae_Teke_HLM_996_DSC_6377.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_6377-celiae_Enhanced-NR.jpg" />
   <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_exigoideum_BBW_00-3_DSC_6210.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_exigoidium_DSC_6210.jpg" />
   <figcaption>Aphyosemion exigoideum BBW 00-3</figcaption>
 </figure>
 
