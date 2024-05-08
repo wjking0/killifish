@@ -1,8 +1,8 @@
 # Guide to killi-keeping:
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/bitaeniatum_full.jpg" />
-  <figcaption>Chromaphyosemion bitaeniatum male</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp_DSC_4793_LR.jpg" />
+  <figcaption>Chromaphyosemion splendopleure "Tiko Big Ikange Kamp"</figcaption>
 </figure>
 
 ## Introduction
@@ -135,6 +135,6 @@ Margarine tubs, Acrylic yarn, corks, Fingistop, turkey baster (for fry tank clea
 Labels (small and large) - used to label species names, number of eggs collected, when last cleaned.
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_cinnamomeus_flare.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-F_cinnamomeus_Flare_DSC_2171-Enhanced-NR.jpg" />
   <figcaption>Fundulopanchax cinnamomeus male</figcaption>
 </figure>
