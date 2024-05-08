@@ -21,7 +21,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_rolloffi_8169.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8169-Enhanced-NR.jpg" />
   <figcaption>Epiplatys roloffi 'Kolahu' RL99</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_rathkei_8144.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8144-Enhanced-NR.jpg" />
   <figcaption>Epiplatys infrafasciatus rathkei</figcaption>
 </figure>
 
