@@ -26,7 +26,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_DSC_8962-Enhanced-NR.jpg" />
   <figcaption>Epiplatys sexfasciatus togolensis [1]</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis_3.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_DSC_8941-Enhanced-NR.jpg" />
   <figcaption>Epiplatys sexfasciatus togolensis [3]</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_togolensis_female.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_female-DSC_8944.jpg" />
   <figcaption>Epiplatys sexfasciatus togolensis female</figcaption>
 </figure>
 

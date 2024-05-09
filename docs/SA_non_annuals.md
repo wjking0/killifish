@@ -1,7 +1,7 @@
 ### South American Non-annuals
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Anablesoides spec.aff.holmiae GUY-GL 2012:15.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190605-hartii_male_DSC_1236-Enhanced-NR.jpg" />
   <figcaption>Rivulus (Oditichthys) hartii 'Hosororo' GUY-GL 2012/15</figcaption>
 </figure>
 

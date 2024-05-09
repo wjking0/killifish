@@ -86,7 +86,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_riggenbachi_Yabassi.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-riggenbachi_DSC_8965.jpg" />
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 [2] </figcaption>
 </figure>
 
