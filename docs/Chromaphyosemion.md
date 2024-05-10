@@ -51,7 +51,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Ekondo_Titi_6431.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_6431_Ekondo_titi_enhanced.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Ekondo Titi' CB3SR07/21 [2]</figcaption>
 </figure>
 
