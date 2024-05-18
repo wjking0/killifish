@@ -1,7 +1,7 @@
 ### Epiplatys
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_fasciolatus_Fandie_male_0635_BEST_cropped.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0624_epi_fasciolatus_LR.jpg" />
   <figcaption>Epiplatys fasciolatus 'Fandie' OMG 2018 [1]</figcaption>
 </figure>
 
@@ -71,22 +71,22 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_infrasciatus_Muyaka_0129_cropped.jpg" />
-  <figcaption>Epiplatys infrafasciatus Muyaka [1]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0129_Muyuka_LR.jpg" />
+  <figcaption>Epiplatys infrafasciatus "Muyuka" [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_infrasciatus_Muyaka_0377_cropped.JPG" />
-  <figcaption>Epiplatys infrafasciatus Muyaka [2]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" [2]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_infrasciatus_Muyaka_0170_cropped.JPG" />
-  <figcaption>Epiplatys infrafasciatus Muyaka [3]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" [3]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_COCCA_19_09_0082_GOOD.JPG" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0082_COCCA_LR.jpg" />
   <figcaption>Epiplatys sp COCCA 19/09 "Boumayombi"</figcaption>
 </figure>
 
