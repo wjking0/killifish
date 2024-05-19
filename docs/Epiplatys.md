@@ -61,12 +61,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_longiventralis_Lobe_female_0595_GOOD_cropped.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0595_Lobe_female_LR.jpg" />
   <figcaption>Epiplatys longiventralis? sp. Lobe CIIR 2018 female [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_Lobe_female.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0458_Lobe_female_LR.jpg" />
   <figcaption>Epiplatys longiventralis? sp. Lobe CIIR 2018 female [2]</figcaption>
 </figure>
 
