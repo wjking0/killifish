@@ -47,7 +47,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/cylindraceus_noir_female_0876_OK_cropped.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0876_cylindraceus_female_LR.jpg" />
   <figcaption>Rivulus cylindraceus Noir female [1]</figcaption>
 </figure>
 
