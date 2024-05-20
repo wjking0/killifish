@@ -6,6 +6,6 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_1013-whitei_female.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_1013-whitei_female_Enhanced-NR.jpg" />
   <figcaption>Nematolebias whitei "São Pedro da Aldeia" female</figcaption>
 </figure>
