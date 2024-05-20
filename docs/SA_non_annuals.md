@@ -32,7 +32,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/cylindraceus_noir_0795_GOOD_cropped.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0795_cylindraceus_noir_LR.jpg" />
   <figcaption>Rivulus cylindraceus Noir male [1]</figcaption>
 </figure>
 
