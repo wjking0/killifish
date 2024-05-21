@@ -10,11 +10,10 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Thu Nov 30 09:42:58 2023
+# Make data base, printed on Tue May 21 14:40:41 2024
 
 # Variables
 
- 
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
 # automatic
@@ -44,13 +43,13 @@ INFOPATH = /opt/homebrew/share/info:
 # environment
 VSCODE_CWD = /
 # environment
-PATH = /Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
+PATH = /Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.APkglxZtaE/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.88W4E4bdUD/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -68,7 +67,8 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/2b35e1e6d88f1ce073683991d1eff5284a32690f
+ 
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/dc96b837cf6bb4af9cd736aa3af08cf8279f7685
 # environment
 LOGNAME = kingwill
 # environment
@@ -100,7 +100,7 @@ TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.84-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.89-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -110,11 +110,13 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.63505847.63505855
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.95578417.95578423
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
@@ -140,9 +142,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 63597
+VSCODE_PID = 33002
 # variable set hash-table stats:
-# Load=63/1024=6%, Rehash=0, Collisions=1/87=1%
+# Load=64/1024=6%, Rehash=0, Collisions=1/88=1%
 
 # Pattern-specific Variable Values
 
@@ -150,7 +152,7 @@ VSCODE_PID = 63597
 
 # Directories
 
-# . (device 16777230, inode 11789066): 10 files, no impossibilities.
+# . (device 16777234, inode 11789066): 10 files, no impossibilities.
 
 # 10 files, no impossibilities in 1 directories.
 
@@ -172,7 +174,6 @@ all:
 .PHONY: serve build deploy clean
 #  Implicit rule search has not been done.
 #  Modification time never checked.
- 
 #  File has not been updated.
 
 # Not a target:
@@ -253,6 +254,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Nov 30 09:42:58 2023
+# Finished Make data base on Tue May 21 14:40:41 2024
 
  
