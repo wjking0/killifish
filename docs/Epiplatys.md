@@ -81,7 +81,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_infrasciatus_Muyaka_0170_cropped.JPG" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0170_muyuka_LR.jpg" />
   <figcaption>Epiplatys infrafasciatus "Muyuka" [3]</figcaption>
 </figure>
 
