@@ -1,7 +1,7 @@
 ### Pachypanchax
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Pachpanchax_omalonatus.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Pachpanchax_omalonatus_LR.jpg" />
   <figcaption>Pachypanchax omalonatus (pair)</figcaption>
 </figure>
 

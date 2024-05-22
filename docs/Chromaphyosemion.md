@@ -31,7 +31,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_8306.jpeg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/docs/index_ATTACHMENTS/DSC_8306_kompina_LR.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [1]</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_9026_malumbresi.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_9026_malumbresi_LR.jpg" />
   <figcaption>Chromaphyosemion malumbresi</figcaption>
 </figure>
 
