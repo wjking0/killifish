@@ -2,22 +2,22 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2674.jpg" />
-  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [1]</figcaption>
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2689.jpg" />
-  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [2]</figcaption>
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [2]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2697.jpg" />
-  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [3]</figcaption>
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [3]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2671.jpg" />
-  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [4]</figcaption>
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [4]</figcaption>
 </figure>
 
 <figure>
