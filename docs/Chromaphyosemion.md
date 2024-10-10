@@ -31,6 +31,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_KV_03-21_DSC_2318.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Kompina' KV 03/21 </figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8306_kompina_LR.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [1]</figcaption>
 </figure>

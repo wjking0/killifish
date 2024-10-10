@@ -26,8 +26,18 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_aureum_GEB_94-9_DSC_2001.jpg" />
+  <figcaption>Aphyosemion australe Gold [2]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-A_coeleste_DSC_7818-Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion coeleste GAB BBA 90-32</figcaption>
+  <figcaption>Aphyosemion aureum GEB 94-9 'Boudianguila'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_chauchei_Assiele_COCOCC_21-35_DSC_2476.jpg" />
+  <figcaption>Aphyosemion chauchei Assiele COCOCC 21-35</figcaption>
 </figure>
 
 <figure>
@@ -143,6 +153,11 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8057_calliurum_LR.jpg" />
   <figcaption>Aphyosemion calliurum 'Akio River'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182_DSC_2069.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182</figcaption>
 </figure>
 
 <figure>

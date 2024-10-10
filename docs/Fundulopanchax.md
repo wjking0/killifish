@@ -1,6 +1,26 @@
 ### Fundulopanchax
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2674.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2689.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2697.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2671.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Nige delta' [4]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-DSC_5321-F_marmoratus_Enhanced-NR.jpg" />
   <figcaption>Fundulopanchax marmoratus 'Mbonge' male [1]</figcaption>
 </figure>
@@ -23,6 +43,11 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-F_walkeri_DSC_3907.jpg" />
   <figcaption>Fundulopanchax walkeri 'Abidjan'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mamfensis_Bachuo_Akagbe_2017_DSC_2364.jpg" />
+  <figcaption>Fundulopanchax gardneri mamfensis 'Bachuo_Akagbe' 2017</figcaption>
 </figure>
 
 <figure>

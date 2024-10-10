@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Thu May 23 09:12:03 2024
+# Make data base, printed on Tue Jun 11 14:10:35 2024
 
 # Variables
 
@@ -45,13 +45,11 @@ VSCODE_CWD = /
 # environment
 PATH = /Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
 # environment
-LaunchInstanceID = 44E1E06E-7992-4E27-A6CD-0F8C657D511E
-# environment
 ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.ETz3HPzOIy/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.jr0YwOfbmP/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -69,7 +67,7 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/dc96b837cf6bb4af9cd736aa3af08cf8279f7685
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/89de5a8d4d6205e5b11647eb6a74844ca23d2573
 # environment
 LOGNAME = kingwill
 # environment
@@ -79,6 +77,7 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # environment
 XPC_FLAGS = 0x0
 # default
+ 
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
@@ -101,7 +100,7 @@ TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.89-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.90-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -111,13 +110,11 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.95578417.95578423
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.98757997.98758003
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
@@ -132,8 +129,6 @@ MAKEFILES :=
 <F = $(notdir $<)
 # environment
 LC_ALL = C
-# environment
-SECURITYSESSIONID = 186b3
 # automatic
 ^F = $(notdir $^)
 # default
@@ -145,9 +140,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 944
+VSCODE_PID = 8139
 # variable set hash-table stats:
-# Load=66/1024=6%, Rehash=0, Collisions=1/90=1%
+# Load=63/1024=6%, Rehash=0, Collisions=1/87=1%
 
 # Pattern-specific Variable Values
 
@@ -257,6 +252,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu May 23 09:12:03 2024
+# Finished Make data base on Tue Jun 11 14:10:35 2024
 
  
