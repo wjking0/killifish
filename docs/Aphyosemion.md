@@ -17,12 +17,12 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7853_australe_enhanced.jpg" />
-  <figcaption>Aphyosemion australe Gold [1]</figcaption>
+  <figcaption>Aphyosemion australe Gold [2]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8092_australe_enhanced.jpg" />
-  <figcaption>Aphyosemion australe Gold [2]</figcaption>
+  <figcaption>Aphyosemion australe Gold [3]</figcaption>
 </figure>
 
 <figure>
@@ -32,7 +32,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-A_coeleste_DSC_7818-Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion aureum GEB 94-9 'Boudianguila'</figcaption>
+  <figcaption>Aphyosemion coeleste GAB BBA 90-32 </figcaption>
 </figure>
 
 <figure>
