@@ -27,7 +27,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_aureum_GEB_94-9_DSC_2001.jpg" />
-  <figcaption>Aphyosemion australe Gold [2]</figcaption>
+  <figcaption>Aphyosemion_aureum_GEB_94-9 'Boudianguila'</figcaption>
 </figure>
 
 <figure>
