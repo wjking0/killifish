@@ -6,8 +6,13 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_3335_BEST.jpg" />
+  <figcaption>Nimbapanchax petersi 'Banco Park' [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_2315.jpg" />
-  <figcaption>Nimbapanchax petersi 'Banco Park'</figcaption>
+  <figcaption>Nimbapanchax petersi 'Banco Park' [2]</figcaption>
 </figure>
 
 <figure>
