@@ -77,27 +77,27 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp._Parc_du_Mondah_DSC_2887_OK.jpg" />
-  <figcaption>Epiplatys sp. Parc du Mondah</figcaption>
+  <figcaption>Epiplatys sp. Parc du Mondah 18km Libreville</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_infrasfasciatus_Muyuka_DSC_2749_BEST.jpg" />
-  <figcaption>Epiplatys infrafasciatus "Muyuka" [1]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" CITA 22/07 [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0129_Muyuka_LR.jpg" />
-  <figcaption>Epiplatys infrafasciatus "Muyuka" [2]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" CITA 22/07 [2]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0377_muyuka_LR.jpg" />
-  <figcaption>Epiplatys infrafasciatus "Muyuka" [3]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" CITA 22/07 [3]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0170_muyuka_LR.jpg" />
-  <figcaption>Epiplatys infrafasciatus "Muyuka" [4]</figcaption>
+  <figcaption>Epiplatys infrafasciatus "Muyuka" CITA 22/07 [4]</figcaption>
 </figure>
 
 <figure>
