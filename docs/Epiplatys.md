@@ -101,7 +101,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_COCCA_2019-09_Boumayombi_DSC_3350_BEST.jpgg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_COCCA_2019-09_Boumayombi_DSC_3350_BEST.jpg" />
   <figcaption>Epiplatys sp. COCCA 19/09 "Boumayombi" [1]</figcaption>
 </figure>
 
