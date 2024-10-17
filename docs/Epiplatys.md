@@ -41,11 +41,6 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/E_togolensis.jpeg" />
-  <figcaption>Epiplatys togolensis [4]</figcaption>
-</figure>
-
-<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_female-DSC_8944.jpg" />
   <figcaption>Epiplatys togolensis female</figcaption>
 </figure>
@@ -61,13 +56,8 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0595_Lobe_female_LR.jpg" />
-  <figcaption>Epiplatys sp. Lobe CIIR 2018 female [1]</figcaption>
-</figure>
-
-<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0458_Lobe_female_LR.jpg" />
-  <figcaption>Epiplatys sp. Lobe CIIR 2018 female [2]</figcaption>
+  <figcaption>Epiplatys sp. Lobe CIIR 2018 female [1]</figcaption>
 </figure>
 
 <figure>
@@ -100,6 +90,11 @@
   <figcaption>Epiplatys infrafasciatus "Muyuka" CITA 22/07 [4]</figcaption>
 </figure>
 
+ <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8144-Enhanced-NR.jpg" />
+  <figcaption>Epiplatys infrafasciatus rathkei</figcaption>
+</figure>
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_sp_COCCA_2019-09_Boumayombi_DSC_3350_BEST.jpg" />
   <figcaption>Epiplatys sp. COCCA 19/09 "Boumayombi" [1]</figcaption>
@@ -108,14 +103,4 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0082_COCCA_LR.jpg" />
   <figcaption>Epiplatys sp. COCCA 19/09 "Boumayombi" [2]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8144-Enhanced-NR.jpg" />
-  <figcaption>Epiplatys infrafasciatus rathkei</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/annulatus_1.jpeg" />
-  <figcaption>Pseudepiplatys annulatus</figcaption>
 </figure>
