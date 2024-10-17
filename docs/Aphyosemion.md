@@ -46,6 +46,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_polli_CI_DSC_3493.jpg" />
+  <figcaption>Aphyosemion polli CI</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-fellmani_DSC_8678.jpg" />
   <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [1]</figcaption>
 </figure>
