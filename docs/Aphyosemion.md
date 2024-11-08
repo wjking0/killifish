@@ -106,22 +106,22 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeeguene_JVC_17-09_3898_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3898_GOOD.jpg" />
   <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeeguene_JVC_17-09_3893_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3893_GOOD.jpg" />
   <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [2]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeeguene_JVC_17-09_3888_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3888_GOOD.jpg" />
   <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [3]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeeguene_JVC_17-09_3916_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3916_GOOD.jpg" />
   <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [4]</figcaption>
 </figure>
 
