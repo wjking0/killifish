@@ -106,7 +106,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoéguéné_JVC_17-09_3898_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeeguene_JVC_17-09_3898_GOOD.jpg" />
   <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [1]</figcaption>
 </figure>
 
