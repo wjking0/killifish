@@ -96,7 +96,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp_DSC-5207.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp-DSC_5207.jpg" />
   <figcaption>Chromaphyosemion splendopleure 'Tiko Big Ikange Camp' [2]</figcaption>
 </figure>
 
