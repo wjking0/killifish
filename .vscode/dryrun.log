@@ -1,7 +1,11 @@
 make --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/kingwill/killifish'
+echo git add and committing
+git add -A
+git commit -a -m "commit via Makefile"
+git push
 echo Cleaning site dir
-rm -rf site/
+rm -rf site
 echo Building docs
 mkdocs gh-deploy
 make: Leaving directory `/Users/kingwill/killifish'

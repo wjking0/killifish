@@ -10,12 +10,14 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Tue Jun 11 14:10:35 2024
+# Make data base, printed on Fri Nov 15 09:57:32 2024
 
 # Variables
 
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
+# environment
+RUBY_VERSION = 3.3.5
 # automatic
 ?F = $(notdir $?)
 # environment
@@ -23,6 +25,7 @@ VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
+ 
 @D = $(patsubst %/,%,$(dir $@))
 # automatic
 @F = $(notdir $@)
@@ -31,7 +34,7 @@ CURDIR := /Users/kingwill/killifish
 # makefile
 SHELL = /bin/sh
 # environment
-VSCODE_NLS_CONFIG = {"locale":"en-gb","osLocale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"userLocale":"en-gb","osLocale":"en-gb","resolvedLanguage":"en","defaultMessagesFile":"/Applications/Visual Studio Code.app/Contents/Resources/app/out/nls.messages.json","locale":"en-gb","availableLanguages":{}}
 # environment
 _ = /usr/bin/make
 # makefile (from `Makefile', line 1)
@@ -43,13 +46,15 @@ INFOPATH = /opt/homebrew/share/info:
 # environment
 VSCODE_CWD = /
 # environment
-PATH = /Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
+PATH = /Users/kingwill/.gem/ruby/3.3.5/bin:/Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0/bin:/Users/kingwill/.rubies/ruby-3.3.5/bin:/Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
+# environment
+LaunchInstanceID = 82FBB711-F667-409F-8FE3-4F82B6DBCC76
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.jr0YwOfbmP/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.hCi6uwGSaL/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -57,17 +62,17 @@ PWD = /Users/kingwill/killifish
 # environment
 HOMEBREW_CELLAR = /opt/homebrew/Cellar
 # environment
+GEM_HOME = /Users/kingwill/.gem/ruby/3.3.5
+# environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
-MANPATH = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/man:/Library/Developer/CommandLineTools/usr/share/man:/Library/Developer/CommandLineTools/Toolchains/XcodeDefault.xctoolchain/usr/share/man:/opt/homebrew/share/man::
-# environment
-VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+MANPATH = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/man:/Library/Developer/CommandLineTools/usr/share/man:/Library/Developer/CommandLineTools/Toolchains/XcodeDefault.xctoolchain/usr/share/man:
 # environment
 HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/89de5a8d4d6205e5b11647eb6a74844ca23d2573
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/e8653663e8840adaf45af01eab5c627a5af81807
 # environment
 LOGNAME = kingwill
 # environment
@@ -75,20 +80,27 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # environment
+GEM_PATH = /Users/kingwill/.gem/ruby/3.3.5:/Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0
+# environment
 XPC_FLAGS = 0x0
 # default
- 
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
 # environment
 SHLVL = 1
+# environment
+RUBY_ROOT = /Users/kingwill/.rubies/ruby-3.3.5
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # default
 MAKE_VERSION := 3.81
 # environment
 USER = kingwill
 # makefile (from `Makefile', line 2)
 .DEFAULT_GOAL := deploy
+# environment
+RUBY_ENGINE = ruby
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # default
@@ -100,7 +112,7 @@ TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.90-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.95-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -110,16 +122,19 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.98757997.98758003
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.176329880.176329886
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
 HOMEBREW_REPOSITORY = /opt/homebrew
 # environment
+ 
 __CF_USER_TEXT_ENCODING = 0x1F5:0:2
 # environment
 COMMAND_MODE = unix2003
@@ -129,10 +144,14 @@ MAKEFILES :=
 <F = $(notdir $<)
 # environment
 LC_ALL = C
+# environment
+SECURITYSESSIONID = 186b3
 # automatic
 ^F = $(notdir $^)
 # default
 SUFFIXES := 
+# environment
+GEM_ROOT = /Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0
 # default
 .INCLUDE_DIRS = /usr/local/include
 # environment
@@ -140,9 +159,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 8139
+VSCODE_PID = 1864
 # variable set hash-table stats:
-# Load=63/1024=6%, Rehash=0, Collisions=1/87=1%
+# Load=72/1024=7%, Rehash=0, Collisions=2/96=2%
 
 # Pattern-specific Variable Values
 
@@ -150,9 +169,9 @@ VSCODE_PID = 8139
 
 # Directories
 
-# . (device 16777234, inode 11789066): 10 files, no impossibilities.
+# . (device 16777230, inode 11789066): 11 files, no impossibilities.
 
-# 10 files, no impossibilities in 1 directories.
+# 11 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -183,7 +202,7 @@ all:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2023-04-18 09:33:24
+#  Last modified 2024-10-16 17:31:10
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -213,7 +232,7 @@ clean:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 24):
+#  commands to execute (from `Makefile', line 25):
 	@echo Cleaning site dir
 	rm -rf site/
 	
@@ -224,8 +243,12 @@ deploy:
 #  File does not exist.
 #  File has not been updated.
 #  commands to execute (from `Makefile', line 15):
+	@echo git add and committing
+	git add -A
+	git commit -a -m "commit via Makefile"
+	git push
 	@echo Cleaning site dir
-	rm -rf site/
+	rm -rf site
 	@echo Building docs
 	mkdocs gh-deploy
 	
@@ -252,6 +275,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Jun 11 14:10:35 2024
+# Finished Make data base on Fri Nov 15 09:57:32 2024
 
  
