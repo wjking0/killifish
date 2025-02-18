@@ -66,10 +66,24 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7923_louessense_LR.jpg" />
-  <figcaption>Aphyosemion louessense RPC 78-33</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_louessense_4817_GOOD.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [1]</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4931_YAWN.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7923_louessense_LR.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4983_FEMALE.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 Female</figcaption>
+</figure>
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp.COFE_10-18_Ingolo_Iwayi_DSC_3214_BEST.jpg" />
   <figcaption>Aphyosemion sp. COFE 10/18 'Ingolo_Iwayi'</figcaption>
@@ -206,6 +220,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_campomaanense_Campo_Maan_Park_ABK7_181_4960_BEST.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182_DSC_2069.jpg" />
   <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [1]</figcaption>
 </figure>
@@ -221,8 +240,13 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_6377-celiae_Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5044_GOOD.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5026_GOOD_CLOSE-UP.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [2] </figcaption>
 </figure>
 
 <figure>
@@ -231,7 +255,36 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_celiae_celiae_Makanje_Plantation_ABK_07-146_4813_FEMALE_BEST.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 Female</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_6377-celiae_Enhanced-NR.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_exigoidium_DSC_6210.jpg" />
   <figcaption>Aphyosemion exigoideum BBW 00-3</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_striatum_Ncolamvan_GEMHS_2000-33_4850_GOOD.jpg" />
+  <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_striatum_Ncolamvan_GEMHS_2000-33_4914_GOOD.jpg" />
+  <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_striatum_Ncolamvan_GEMHS_2000-33_5032_GOOD.jpg" />
+  <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_striatum_Ncolamvan_GEMHS_2000-33_4913_OK.jpg" />
+  <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
+</figure>

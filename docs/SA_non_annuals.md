@@ -1,14 +1,20 @@
 ### South American Non-annuals
 
+#### Rivulus (Oditichthys)
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20190605-hartii_male_DSC_1236-Enhanced-NR.jpg" />
   <figcaption>Rivulus (Oditichthys) hartii 'Hosororo' GUY-GL 2012/15</figcaption>
 </figure>
 
+#### Rivulus (Anablepsoides)
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0942_fransvermuelini_LR.jpg" />
   <figcaption>Rivulus (Anablepsoides) fransvermeuleni "SUR 2010-03, Bakhuis"</figcaption>
 </figure>
+
+#### Rivulus (Cynodichthys)
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-chucanaque_Male_DSC_6229.jpg" />
@@ -20,6 +26,7 @@
   <figcaption>Cynodonichthys chucunaque 'Pan' 12-01 female</figcaption>
 </figure>
 
+#### Rivulus (Laimosemion)
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_5007-Laimosemion_agilae_Enhanced-NR.jpg" />
@@ -30,6 +37,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-Laimosemion_agilae_Rorata_DSC_4850-Enhanced-NR.jpg" />
   <figcaption>Laimosemion agilae 'Rorata S-FG 2014' [2]</figcaption>
 </figure>
+
+#### Rivulus
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0795_cylindraceus_LR.jpg" />
