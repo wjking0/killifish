@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Tue Feb 18 16:22:30 2025
+# Make data base, printed on Tue Apr  8 16:41:29 2025
 
 # Variables
 
@@ -22,7 +22,6 @@ RUBY_VERSION = 3.3.5
 ?F = $(notdir $?)
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
- 
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -48,13 +47,11 @@ VSCODE_CWD = /
 # environment
 PATH = /Users/kingwill/.gem/ruby/3.3.5/bin:/Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0/bin:/Users/kingwill/.rubies/ruby-3.3.5/bin:/Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
 # environment
-LaunchInstanceID = 6E604B77-6326-4C1E-99AC-50DEB0859EED
-# environment
 ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.1wuW7t5TCi/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.n9jxn2XIde/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -63,6 +60,7 @@ PWD = /Users/kingwill/killifish
 HOMEBREW_CELLAR = /opt/homebrew/Cellar
 # environment
 GEM_HOME = /Users/kingwill/.gem/ruby/3.3.5
+ 
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
@@ -72,7 +70,7 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/33fc5a94a3f99ebe7087e8fe79fbe1d37a251016
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/ddc367ed5c8936efe395cffeec279b04ffd7db78
 # environment
 LOGNAME = kingwill
 # environment
@@ -108,11 +106,12 @@ MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
 # default
 .VARIABLES := 
 # environment
+ 
 TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.97-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.98-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -122,14 +121,11 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.249579221.249579227
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.284762498.284762504
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
- 
 +D = $(patsubst %/,%,$(dir $+))
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
@@ -144,8 +140,6 @@ MAKEFILES :=
 <F = $(notdir $<)
 # environment
 LC_ALL = C
-# environment
-SECURITYSESSIONID = 186b3
 # automatic
 ^F = $(notdir $^)
 # default
@@ -159,9 +153,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 930
+VSCODE_PID = 39232
 # variable set hash-table stats:
-# Load=72/1024=7%, Rehash=0, Collisions=2/96=2%
+# Load=69/1024=7%, Rehash=0, Collisions=2/93=2%
 
 # Pattern-specific Variable Values
 
@@ -169,9 +163,9 @@ VSCODE_PID = 930
 
 # Directories
 
-# . (device 16777233, inode 11789066): 12 files, no impossibilities.
+# . (device 16777230, inode 11789066): 11 files, no impossibilities.
 
-# 12 files, no impossibilities in 1 directories.
+# 11 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -241,6 +235,7 @@ deploy:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
+ 
 #  File has not been updated.
 #  commands to execute (from `Makefile', line 15):
 	@echo git add and committing
@@ -275,6 +270,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Feb 18 16:22:30 2025
+# Finished Make data base on Tue Apr  8 16:41:29 2025
 
  

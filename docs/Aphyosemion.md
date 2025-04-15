@@ -31,8 +31,33 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6564.jpg" />
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6565.jpg" />
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6566.jpg" />
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6567.jpg" />
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6569.jpg" />
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-A_coeleste_DSC_7818-Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion coeleste GAB BBA 90-32 </figcaption>
+  <figcaption>Aphyosemion coeleste GAB BBA 90-30 </figcaption>
 </figure>
 
 <figure>
@@ -51,18 +76,23 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-fellmani_DSC_8678.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-A_fellmani_6385.jpg" />
   <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [1]</figcaption>
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-fellmani_DSC_8678.jpg" />
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [2]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-fellmani_DSC_8690.jpg" />
-  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [2] </figcaption>
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [3] </figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-fellmani_DSC_8777.jpg" />
-  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [3] </figcaption>
+  <figcaption>Aphyosemion fellmani 'Ntoba' FCCO 2013-15 [4] </figcaption>
 </figure>
 
 <figure>
@@ -84,6 +114,11 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4983_FEMALE.jpg" />
   <figcaption>Aphyosemion louessense RPC 78-33 Female</figcaption>
 </figure>
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-A.so.Lake_Mai_NDombe_6381.jpg" />
+  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai N'Dombe CIR 2017'</figcaption>
+</figure>
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp.COFE_10-18_Ingolo_Iwayi_DSC_3214_BEST.jpg" />
   <figcaption>Aphyosemion sp. COFE 10/18 'Ingolo_Iwayi'</figcaption>
@@ -222,6 +257,16 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_campomaanense_Campo_Maan_Park_ABK7_181_4960_BEST.jpg" />
   <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6251.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6252.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [3]</figcaption>
 </figure>
 
 <figure>
