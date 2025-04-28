@@ -91,8 +91,23 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_Muea.jpg" />
-  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250122-poliaki_Muea_5470_GOOD.jpg" />
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-poliaki_Muea_5620_GOOD.jpg" />
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-poliaki_Muea_6022_GOOD.jpg" />
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-poliaki_Muea_6194_GOOD.jpg" />
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 [4]</figcaption>
 </figure>
 
 <figure>
@@ -127,6 +142,26 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-riggenbachi_DSC_8965.jpg" />
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 [2] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250122-bitaeniatum_Majidun_river_5294.jpg" />
+  <figcaption>Chromaphyosemion bitaeniatum 'Majidun river' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-bitaeniatum_Majidun_river_5438.jpg" />
+  <figcaption>Chromaphyosemion bitaeniatum 'Majidun river' [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250122-bitaeniatum_Majidun_river_5934-3.jpg" />
+  <figcaption>Chromaphyosemion bitaeniatum 'Majidun river' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-bitaeniatum_Majidun_river_5941.jpg" />
+  <figcaption>Chromaphyosemion bitaeniatum 'Majidun river' [4]</figcaption>
 </figure>
 
 <figure>
