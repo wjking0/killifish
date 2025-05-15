@@ -6,11 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
-make: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Tue Apr  8 16:41:29 2025
+# Make data base, printed on Thu May 15 11:45:01 2025
 
 # Variables
 
@@ -60,7 +57,6 @@ PWD = /Users/kingwill/killifish
 HOMEBREW_CELLAR = /opt/homebrew/Cellar
 # environment
 GEM_HOME = /Users/kingwill/.gem/ruby/3.3.5
- 
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
@@ -70,7 +66,7 @@ HOME = /Users/kingwill
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/ddc367ed5c8936efe395cffeec279b04ffd7db78
+VSCODE_CODE_CACHE_PATH = /Users/kingwill/Library/Application Support/Code/CachedData/19e0f9e681ecb8e5c09d8784acaa601316ca4571
 # environment
 LOGNAME = kingwill
 # environment
@@ -106,12 +102,11 @@ MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
 # default
 .VARIABLES := 
 # environment
- 
 TMPDIR = /var/folders/w6/w2fbhktx3gd02ky9m0s6jwj40000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.98-main.sock
+VSCODE_IPC_HOOK = /Users/kingwill/Library/Application Support/Code/1.10-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -121,11 +116,13 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.284762498.284762504
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.315253094.315253100
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
@@ -153,9 +150,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 39232
+VSCODE_PID = 40954
 # variable set hash-table stats:
-# Load=69/1024=7%, Rehash=0, Collisions=2/93=2%
+# Load=70/1024=7%, Rehash=0, Collisions=2/94=2%
 
 # Pattern-specific Variable Values
 
@@ -235,7 +232,6 @@ deploy:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
- 
 #  File has not been updated.
 #  commands to execute (from `Makefile', line 15):
 	@echo git add and committing
@@ -270,6 +266,8 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Apr  8 16:41:29 2025
+# Finished Make data base on Thu May 15 11:45:01 2025
 
  
+make: *** No rule to make target `all'.  Stop.
+
