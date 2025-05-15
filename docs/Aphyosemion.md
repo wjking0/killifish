@@ -125,8 +125,28 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250514-elberti_Ntui_6865-BEST.jpg" />
+  <figcaption>Aphyosemion elberti 'N'tui' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250514-elberti_Ntui_6882_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'N'tui' [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250514-elberti_Ntui_6883_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'N'tui' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250514-elberti_Ntui_6885_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'N'tui' [4]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7833-aphyosemion_elberti_Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion elberti 'N'tui'</figcaption>
+  <figcaption>Aphyosemion elberti 'N'tui' [5]</figcaption>
 </figure>
 
 <figure>
