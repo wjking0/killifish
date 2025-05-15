@@ -150,6 +150,31 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3898_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'Zoéguéné' JVC 17/09 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3893_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'Zoéguéné' JVC 17/09 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3888_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'Zoéguéné' JVC 17/09 [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3916_GOOD.jpg" />
+  <figcaption>Aphyosemion elberti 'Zoéguéné' JVC 17/09 [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_dargei_Ndjore_Mfele_JVC_17-20_4037_GOOD.jpg" />
+  <figcaption>Aphyosemion dargei 'Ndjoré Mfele' JVC 17/20 [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0143_kekemense_LR.jpg" />
   <figcaption>Aphyosemion kekemense [1]</figcaption>
 </figure>
@@ -172,31 +197,6 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0023_kekemense_female_LR.jpg" />
   <figcaption>Aphyosemion kekemense female [2]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3898_GOOD.jpg" />
-  <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [1]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3893_GOOD.jpg" />
-  <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [2]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3888_GOOD.jpg" />
-  <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [3]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_bualanum_Zoeguene_JVC_17-09_3916_GOOD.jpg" />
-  <figcaption>Aphyosemion bualanum 'Zoéguéné' JVC 17/09 [4]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_dargei_Ndjore_Mfele_JVC_17-20_4037_GOOD.jpg" />
-  <figcaption>Aphyosemion dargei 'Ndjoré Mfele' JVC 17/20 [1]</figcaption>
 </figure>
 
 <figure>
