@@ -14,3 +14,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20241021-Campellolebias_brucei_TT_Icara_3624_GOOD.jpg" />
   <figcaption>Campellolebias brucei 'TT Icara' [3] showing gonopodium</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250514_Campellolebias_brucei_female_6886.jpg" />
+  <figcaption>Campellolebias brucei 'TT Icara' female</figcaption>
+</figure>
