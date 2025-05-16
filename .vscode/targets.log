@@ -6,11 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
-make: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Thu May 15 13:39:45 2025
+# Make data base, printed on Fri May 16 16:21:33 2025
 
 # Variables
 
@@ -22,7 +19,6 @@ RUBY_VERSION = 3.3.5
 ?F = $(notdir $?)
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
- 
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -135,6 +131,9 @@ HOMEBREW_REPOSITORY = /opt/homebrew
 __CF_USER_TEXT_ENCODING = 0x1F5:0:2
 # environment
 COMMAND_MODE = unix2003
+ 
+make: *** No rule to make target `all'.  Stop.
+
 # default
 MAKEFILES := 
 # automatic
@@ -198,7 +197,6 @@ all:
 Makefile:
 #  Implicit rule search has been done.
 #  Last modified 2024-10-16 17:31:10
- 
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -271,6 +269,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu May 15 13:39:45 2025
+# Finished Make data base on Fri May 16 16:21:33 2025
 
  
