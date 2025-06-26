@@ -96,8 +96,33 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20190521-DSC_0841_arnoldi_LR.jpg" />
-  <figcaption>Fundulopanchax arnoldi 'Niger Delta NG 2016' </figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7206.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7214.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7257.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7256.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7272.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7206.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male </figcaption>
 </figure>
 
 <figure>
@@ -106,6 +131,17 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_female_BEST_7176.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' female (NOTE:large anal fin for egg ploughing)</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230131-filamentosus_female_DSC_8568.jpg" />
   <figcaption>Fundulopanchax filamentosus 'Ikeja' female (NOTE:large anal fin for egg ploughing)</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190521-DSC_0841_arnoldi_LR.jpg" />
+  <figcaption>Fundulopanchax arnoldi 'Niger Delta NG 2016' </figcaption>
+</figure>
+
