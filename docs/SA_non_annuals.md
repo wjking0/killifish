@@ -10,8 +10,13 @@
 #### Rivulus (Anablepsoides)
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0942_fransvermuelini_LR.jpg" />
-  <figcaption>Rivulus (Anablepsoides) fransvermeuleni "SUR 2010-03, Bakhuis"</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-cryptocallus_male_5131.jpg" />
+  <figcaption>Rivulus (Anablepsoides) cryptocallus "Ducos" MA14</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-cryptocallus_pair_5134.jpg" />
+  <figcaption>Rivulus (Anablepsoides) cryptocallus "Ducos" MA14 pair</figcaption>
 </figure>
 
 #### Rivulus (Cynodichthys)

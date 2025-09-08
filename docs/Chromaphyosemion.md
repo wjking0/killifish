@@ -16,12 +16,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0293_mabanda_LR.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Mabanda_Good_7703.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Mabanda' CITA22/2 [2] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0353_mabanda_LR.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Mabanda_Good_7717.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Mabanda' CITA22/2 [3]</figcaption>
 </figure>
 
@@ -51,6 +51,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Penda_Mboko_7622.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Penda Mboko'</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230201-Ekondo_titi_DSC_8818.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Ekondo Titi' CB3SR07/21 [1]</figcaption>
 </figure>
@@ -61,8 +66,28 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Muyuka_Good_7724.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 [1]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-C_volcanum_Muyuka_6347.jpg" />
-  <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1</figcaption>
+  <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Alpha_Good_7615.jpg" />
+  <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Alpha_Good7643.jpg" />
+  <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Alpha_OK_7638.jpg" />
+  <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26 [3]</figcaption>
 </figure>
 
 <figure>
@@ -83,11 +108,6 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250514_Chrom_omega_new_GOOD_6907.jpg" />
   <figcaption>Chromaphyosemion omega 'Kopongo' JVC 17/35 [4]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_alpha_20250902-DSC_7591.jpg" />
-  <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26</figcaption>
 </figure>
 
 <figure>
@@ -162,6 +182,11 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-riggenbachi_DSC_8965.jpg" />
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 [2] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-loennbergii_Good_7626.jpg" />
+  <figcaption>Chromaphyosemion loennbergii ' 'Akom 1' JVC 22/8 </figcaption>
 </figure>
 
 <figure>
