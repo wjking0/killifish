@@ -1,4 +1,4 @@
-### Ophthalmaolebias
+### Ophthalmolebias
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250123-constanciae_6083.jpg" />
