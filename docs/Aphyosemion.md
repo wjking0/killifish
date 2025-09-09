@@ -353,3 +353,13 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_striatum_Ncolamvan_GEMHS_2000-33_4913_OK.jpg" />
   <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119_primigenium_5117.jpg" />
+  <figcaption>Aphyosemion primigenium GBN 88-10 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119_primigenium_5092.jpg" />
+  <figcaption>Aphyosemion primigenium GBN 88-10 [2]</figcaption>
+</figure>
