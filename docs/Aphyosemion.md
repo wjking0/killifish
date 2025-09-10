@@ -1,43 +1,115 @@
-## Group: ogoense
+## Group: calliurum
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4930-ottogartneri_Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion ottogartneri 'Mpassa' CI 2015 [Group: ogoense] </figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7855_australe_enhanced.jpg" />
+  <figcaption>Aphyosemion australe Gold [1] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-A_pyrophore_Kimono_DSC_3887-Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion pyrophore 'Komono' yellow [Group: ogoense]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7853_australe_enhanced.jpg" />
+  <figcaption>Aphyosemion australe Gold [2] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_louessense_4817_GOOD.jpg" />
-  <figcaption>Aphyosemion louessense RPC 78-33 [1][Group: ogoense]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8092_australe_enhanced.jpg" />
+  <figcaption>Aphyosemion australe Gold [3] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4931_YAWN.jpg" />
-  <figcaption>Aphyosemion louessense RPC 78-33 [2] [Group: ogoense]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0288_pascheni_LR.jpg" />
+  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [1] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7923_louessense_LR.jpg" />
-  <figcaption>Aphyosemion louessense RPC 78-33 [3][Group: ogoense]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0153_pascheni_LR.jpg" />
+  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [2] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4983_FEMALE.jpg" />
-  <figcaption>Aphyosemion louessense RPC 78-33 Female [Group: ogoense]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_9000_pascheni_LR.jpg" />
+  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [3] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4995-A_pyrophore_Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion ogoense FCO 11/14 [Group: ogoense]/figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0058_pascheni_female_LR.jpg" />
+  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 female [1] [Group: calliurum]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp.COFE_10-18_Ingolo_Iwayi_DSC_3214_BEST.jpg" />
-  <figcaption>Aphyosemion sp. COFE 10/18 'Ingolo_Iwayi' [Group: ogoense?]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0209_pascheni_female_LR.jpg" />
+  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 female [2] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8606_calliurum_mij_cropped_good.png" />
+  <figcaption>Aphyosemion calliurum 'Majidun' 17-12 [1] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8057_calliurum_LR.jpg" />
+  <figcaption>Aphyosemion calliurum 'Akio River' [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_campomaanense_Campo_Maan_Park_ABK7_181_4960_BEST.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [1] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6251.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [2] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6252.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [3] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182_DSC_2069.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [1] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182-DSC_1990.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [2] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7080_campomaaense_LR.jpg" />
+  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [3] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5044_GOOD.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [1] [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5026_GOOD_CLOSE-UP.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [2]  [Group: calliurum] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_celiae_celiae_Makanje_plantation_ABK_07-146_DSC_3421.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK-07/146 [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_celiae_celiae_Makanje_Plantation_ABK_07-146_4813_FEMALE_BEST.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 Female [Group: calliurum]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_6377-celiae_Enhanced-NR.jpg" />
+  <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996 [Group: calliurum]</figcaption>
+</figure>
+
+## Group: cameronense
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_ammonium_DSC_6203.jpg" />
+  <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8 [Group: cameronense]</figcaption>
 </figure>
 
 ## Group: coeleste
@@ -201,20 +273,6 @@
   <figcaption>Aphyosemion dargei 'Ndjoré Mfele' JVC 17/20 [2] [Group: exiguum]</figcaption>
 </figure>
 
-## Group: cameronense
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_ammonium_DSC_6203.jpg" />
-  <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8 [Group: cameronense]</figcaption>
-</figure>
-
-## Group: herzogi
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_herzogi_bochtleri_GWW_86-11_DSC_2107.jpg" />
-  <figcaption>Aphyosemion herzogi bochtleri GWW 86/11 [Group: herzogi]</figcaption>
-</figure>
-
 ## Group: hera
 
 <figure>
@@ -232,111 +290,53 @@
   <figcaption>Aphyosemion hera 'Bengui' GJS 2000-29 fry [Group: hera]</figcaption>
 </figure>
 
-## Group: calliurum
+## Group: herzogi
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7855_australe_enhanced.jpg" />
-  <figcaption>Aphyosemion australe Gold [1] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_herzogi_bochtleri_GWW_86-11_DSC_2107.jpg" />
+  <figcaption>Aphyosemion herzogi bochtleri GWW 86/11 [Group: herzogi]</figcaption>
+</figure>
+
+## Group: ogoense
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4930-ottogartneri_Enhanced-NR.jpg" />
+  <figcaption>Aphyosemion ottogartneri 'Mpassa' CI 2015 [Group: ogoense] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7853_australe_enhanced.jpg" />
-  <figcaption>Aphyosemion australe Gold [2] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-A_pyrophore_Kimono_DSC_3887-Enhanced-NR.jpg" />
+  <figcaption>Aphyosemion pyrophore 'Komono' yellow [Group: ogoense]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8092_australe_enhanced.jpg" />
-  <figcaption>Aphyosemion australe Gold [3] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_louessense_4817_GOOD.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [1][Group: ogoense]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0288_pascheni_LR.jpg" />
-  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [1] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4931_YAWN.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [2] [Group: ogoense]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0153_pascheni_LR.jpg" />
-  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [2] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7923_louessense_LR.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 [3][Group: ogoense]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_9000_pascheni_LR.jpg" />
-  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 [3] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_louessense_4983_FEMALE.jpg" />
+  <figcaption>Aphyosemion louessense RPC 78-33 Female [Group: ogoense]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0058_pascheni_female_LR.jpg" />
-  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 female [1] [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4995-A_pyrophore_Enhanced-NR.jpg" />
+  <figcaption>Aphyosemion ogoense FCO 11/14 [Group: ogoense]/figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0209_pascheni_female_LR.jpg" />
-  <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 female [2] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8606_calliurum_mij_cropped_good.png" />
-  <figcaption>Aphyosemion calliurum 'Majidun' 17-12 [1] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8057_calliurum_LR.jpg" />
-  <figcaption>Aphyosemion calliurum 'Akio River' [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_campomaanense_Campo_Maan_Park_ABK7_181_4960_BEST.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [1] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6251.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [2] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-campomaaense_Campo_Maan_Park_6252.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Campo Maan Park' ABK 07-181 [3] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182_DSC_2069.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [1] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_campomaaense_Nord_Nkoelon_07-182-DSC_1990.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [2] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7080_campomaaense_LR.jpg" />
-  <figcaption>Aphyosemion campomaanense 'Nord Nkoelon' ABK 07-182 [3] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5044_GOOD.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [1] [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_celiae_celiae_Makanje_Plantation_ABK_07-146_5026_GOOD_CLOSE-UP.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 [2]  [Group: calliurum] </figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_celiae_celiae_Makanje_plantation_ABK_07-146_DSC_3421.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK-07/146 [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_celiae_celiae_Makanje_Plantation_ABK_07-146_4813_FEMALE_BEST.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Makanje plantation' ABK 07-146 Female [Group: calliurum]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_6377-celiae_Enhanced-NR.jpg" />
-  <figcaption>Aphyosemion celiae celiae 'Teke' HLM-996 [Group: calliurum]</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp.COFE_10-18_Ingolo_Iwayi_DSC_3214_BEST.jpg" />
+  <figcaption>Aphyosemion sp. COFE 10/18 'Ingolo_Iwayi' [Group: ogoense?]</figcaption>
 </figure>
 
 ## Group: striatum
