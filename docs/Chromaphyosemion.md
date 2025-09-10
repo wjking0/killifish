@@ -1,4 +1,6 @@
-### Chromaphyosemion
+### Sub-genus: Chromaphyosemion
+
+## Species: A.volcanum
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8310-Enhanced-NR.jpg" />
@@ -75,6 +77,8 @@
   <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 [2]</figcaption>
 </figure>
 
+## Species: A.alpha
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Alpha_Good_7615.jpg" />
   <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26 [1]</figcaption>
@@ -89,6 +93,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Alpha_OK_7638.jpg" />
   <figcaption>Chromaphyosemion alpha '17.3 km Libreville - Cap Esterias' LEC 93/26 [3]</figcaption>
 </figure>
+
+## Species: A.omega
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250516_Chrom_omega__6984.jpg" />
@@ -110,6 +116,8 @@
   <figcaption>Chromaphyosemion omega 'Kopongo' JVC 17/35 [4]</figcaption>
 </figure>
 
+## Species: A.lugens
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_lugen_DSC_2918_GOOD.jpg" />
   <figcaption>Chromaphyosemion lugens 'Akok' ADGP 11-11 [1]</figcaption>
@@ -119,6 +127,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_lugens_DSC_3389_BEST.jpg" />
   <figcaption>Chromaphyosemion lugens 'Akok' ADGP 11-11 [2]</figcaption>
 </figure>
+
+## Species: A.poliaki
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_poliaki_COS_2015_Meanja_01_DSC_4824_LR.jpg" />
@@ -150,6 +160,8 @@
   <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 [4]</figcaption>
 </figure>
 
+## Species: A.splendopleure
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_splendopleure_Tiko_Big_Ikange_Camp_DSC_4793_LR.jpg" />
   <figcaption>Chromaphyosemion splendopleure 'Tiko Big Ikange Camp' [1]</figcaption>
@@ -165,6 +177,8 @@
   <figcaption>Chromaphyosemion splendopleure 'Tiko Big Ikange Camp' [3]</figcaption>
 </figure>
 
+## Species: A.malumbresi
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_malumbresi_DSC_3265_BEST.jpg" />
   <figcaption>Chromaphyosemion malumbresi [1]</figcaption>
@@ -174,6 +188,9 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_malumbresi_DSC_2756_GOOD.jpg" />
   <figcaption>Chromaphyosemion malumbresi [2]</figcaption>
 </figure>
+
+## Species: A.riggenbachi
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0620_riggenbachi_LR.jpg" />
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 [1] </figcaption>
@@ -184,10 +201,14 @@
   <figcaption>Chromaphyosemion riggenbachi 'Yabassi' CITA 22/4 [2] </figcaption>
 </figure>
 
+## Species: A.loennbergii
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-loennbergii_Good_7626.jpg" />
   <figcaption>Chromaphyosemion loennbergii ' 'Akom 1' JVC 22/8 </figcaption>
 </figure>
+
+## Species: A.bitaeniatum
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250122-bitaeniatum_Majidun_river_5294.jpg" />
@@ -213,6 +234,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-Chrom_bitaeniatum_DSC_1919.jpg" />
   <figcaption>Chromaphyosemion bitaeniatum 'Ijebu Ode'</figcaption>
 </figure>
+
+## Species: A.bivittatum
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20190618_Chrom_bivittatum_Besingui-DSC_1683-Enhanced-NR.jpg" />
