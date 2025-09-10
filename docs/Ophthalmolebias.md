@@ -6,7 +6,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123_constanciae_6108.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250123_constanciae_6083.jpg" />
   <figcaption>Ophthalmolebias constanciae "Barra de São João" [2]</figcaption>
 </figure>
 
