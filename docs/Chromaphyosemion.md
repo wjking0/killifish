@@ -1,5 +1,3 @@
-### Sub-genus: Chromaphyosemion
-
 ## Species: A.volcanum
 
 <figure>

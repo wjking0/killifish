@@ -1,5 +1,3 @@
-### Aphyosemion
-
 ## Group: ogoense
 
 <figure>
