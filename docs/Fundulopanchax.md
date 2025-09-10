@@ -1,4 +1,4 @@
-### Fundulopanchax
+## Sub-Genera: Gularopanchax
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2674.jpg" />
@@ -19,6 +19,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2671.jpg" />
   <figcaption>Fundulopanchax sjoestedti 'Niger delta' [4]</figcaption>
 </figure>
+
+## Sub-Genera: Paraphyosemion
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-DSC_5321-F_marmoratus_Enhanced-NR.jpg" />
@@ -94,6 +96,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7877_tinto_LR.jpg" />
   <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
 </figure>
+
+## Sub-Genera: Paludopanchax
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7206.jpg" />
