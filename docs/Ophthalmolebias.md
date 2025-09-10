@@ -1,5 +1,3 @@
-### Ophthalmolebias
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250123_constanciae_6108.jpg" />
   <figcaption>Ophthalmolebias constanciae "Barra de São João" [1]</figcaption>
