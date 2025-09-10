@@ -1,4 +1,4 @@
-### Epiplatys
+## Group: fasciolatus
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0624_epi_fasciolatus_LR.jpg" />
@@ -13,6 +13,11 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0648_fasciolatus_close_up_teeth_LR.jpg" />
   <figcaption>Epiplatys fasciolatus 'Fandie' OMG 2018 close up mouth</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_lamottei_Koule_GRC_90-178_DSC_3395_BEST.jpg" />
+  <figcaption>Epiplatys lamottei 'Koule' GRC 90/178</figcaption>
 </figure>
 
 <figure>
@@ -65,6 +70,8 @@
   <figcaption>Epiplatys zimiensis 'Mali' SL2022/3</figcaption>
 </figure>
 
+## Group: sexfasciatus
+
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_DSC_8962-Enhanced-NR.jpg" />
   <figcaption>Epiplatys togolensis [1]</figcaption>
@@ -98,11 +105,6 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0458_Lobe_female_LR.jpg" />
   <figcaption>Epiplatys sp. Lobe CIIR 2018 female [1]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Epiplatys_lamottei_Koule_GRC_90-178_DSC_3395_BEST.jpg" />
-  <figcaption>Epiplatys lamottei 'Koule' GRC 90/178</figcaption>
 </figure>
 
 <figure>

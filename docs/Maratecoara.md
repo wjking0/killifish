@@ -1,5 +1,3 @@
-### Maratecoara
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Maratecoara_1.jpg" />
   <figcaption>Maratecoara lacortei "Rio Formoso HVP 2017-18" [1]</figcaption>

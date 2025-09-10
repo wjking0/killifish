@@ -1,5 +1,3 @@
-#### Simpsonichthys
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250112-Simpsonichthys-santanae-BEST-4490.jpg" />
   <figcaption>Simpsonichthys santane "Ribeirao de Satana" NP 03-07 [1]</figcaption>
