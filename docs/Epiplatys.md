@@ -73,6 +73,11 @@
 ## Group: sexfasciatus
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/epiplatys_chaperi_Angona.jpg" />
+  <figcaption>Epiplatys chaperi "Angona"</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20230407-togolensis_DSC_8962-Enhanced-NR.jpg" />
   <figcaption>Epiplatys togolensis [1]</figcaption>
 </figure>

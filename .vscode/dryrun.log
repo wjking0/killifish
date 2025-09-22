@@ -8,5 +8,6 @@ echo Cleaning site dir
 rm -rf site
 echo Building docs
 mkdocs gh-deploy
+ 
 make: Leaving directory `/Users/kingwill/killifish'
  
