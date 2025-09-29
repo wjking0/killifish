@@ -152,8 +152,18 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-sp.Lake-Mai_7951_GOOD.jpg" />
+  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-sp.Lake-Mai_7855_OK.jpg" />
+  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [2]</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-A.so.Lake_Mai_NDombe_6381.jpg" />
-  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai N'Dombe CIR 2017'</figcaption>
+  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [3]</figcaption>
 </figure>
 
 <figure>
@@ -380,4 +390,16 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250119-A_striatum_Ncolamvan_GEMHS_2000-33_4913_OK.jpg" />
   <figcaption>Aphyosemion striatum "Ncolamvan" GEMHS 2000/33</figcaption>
+</figure>
+
+## Group: wildekampi
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-puntatum_GOOD_7887.jpg" />
+  <figcaption>Aphyosemion punctatum "Boone Bai" </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-punctatum_female_GOOD_7969.jpg" />
+  <figcaption>Aphyosemion punctatum "Boone Bai" female </figcaption>
 </figure>
