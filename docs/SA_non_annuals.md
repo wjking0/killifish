@@ -41,6 +41,11 @@
   <figcaption>Rivulus cylindraceus Noir fry [2]</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250516-R_cylindraceus_macro_16_BEST.jpeg" />
+  <figcaption>Rivulus cylindraceus Noir Macro fry [3]</figcaption>
+</figure>
+
 ## Rivulus (Anablepsoides)
 
 <figure>
