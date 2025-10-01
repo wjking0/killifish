@@ -202,7 +202,7 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250516-Chrom_poliaki_025.jpg" />
-  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 Macro fry [1]</figcaption>
+  <figcaption>Chromaphyosemion poliaki 'Muea' CITA 22/3 fry (Macro) [5]</figcaption>
 </figure>
 
 ## Species: A.riggenbachi
