@@ -105,13 +105,6 @@
   <figcaption>Aphyosemion pascheni 'Bidou' ABK 07/167 female [2]</figcaption>
 </figure>
 
-## Group: cameronense
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_ammonium_DSC_6203.jpg" />
-  <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8 [Group: cameronense]</figcaption>
-</figure>
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20251103-A_sp_Weze_BEST_9124.jpg" />
   <figcaption>Aphyosemion spec. Wézé GLC 14 (Laurent Chirio (Gabon 2014)) [1]</figcaption>
@@ -125,6 +118,13 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20251104-A_sp_Weze_female_BEST_9171.jpg" />
   <figcaption>Aphyosemion spec. Wézé GLC 14 female </figcaption>
+</figure>
+
+## Group: cameronense
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_ammonium_DSC_6203.jpg" />
+  <figcaption>Aphyosemion amoenum 'Son Mayo' 90-8 [Group: cameronense]</figcaption>
 </figure>
 
 
