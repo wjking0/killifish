@@ -184,7 +184,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/0251103-omega_Kopongo_female_OK_9104.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20251103-omega_Kopongo_female_OK_9104.jpg" />
   <figcaption>Chromaphyosemion omega 'Kopongo' JVC 17/35 female</figcaption>
 </figure>
 

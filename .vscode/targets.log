@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Tue Nov  4 17:37:23 2025
+# Make data base, printed on Mon Nov 10 10:21:40 2025
 
 # Variables
 
@@ -19,6 +19,7 @@ make: *** No rule to make target `all'.  Stop.
 # environment
 RUBY_VERSION = 3.3.5
 # automatic
+ 
 ?F = $(notdir $?)
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
@@ -27,7 +28,6 @@ VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # automatic
- 
 @F = $(notdir $@)
 # makefile
 CURDIR := /Users/kingwill/killifish
@@ -46,13 +46,13 @@ INFOPATH = /opt/homebrew/share/info:
 # environment
 VSCODE_CWD = /
 # environment
-PATH = /Users/kingwill/.gem/ruby/3.3.5/bin:/Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0/bin:/Users/kingwill/.rubies/ruby-3.3.5/bin:/Users/kingwill/.docker/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
+PATH = /Users/kingwill/.gem/ruby/3.3.5/bin:/Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0/bin:/Users/kingwill/.rubies/ruby-3.3.5/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/kingwill/.local/bin:/Users/kingwill/.local/bin
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.QjiTb72im4/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.8polUmtN7k/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -127,6 +127,8 @@ XPC_SERVICE_NAME = application.com.microsoft.VSCode.421853673.421853679
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
@@ -147,7 +149,6 @@ LC_ALL = C
 SUFFIXES := 
 # environment
 GEM_ROOT = /Users/kingwill/.rubies/ruby-3.3.5/lib/ruby/gems/3.3.0
- 
 # default
 .INCLUDE_DIRS = /usr/local/include
 # environment
@@ -155,9 +156,10 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 2068
+VSCODE_PID = 64766
 # variable set hash-table stats:
-# Load=70/1024=7%, Rehash=0, Collisions=2/94=2%
+ 
+# Load=71/1024=7%, Rehash=0, Collisions=2/95=2%
 
 # Pattern-specific Variable Values
 
@@ -165,7 +167,7 @@ VSCODE_PID = 2068
 
 # Directories
 
-# . (device 16777234, inode 11789066): 11 files, no impossibilities.
+# . (device 16777232, inode 11789066): 11 files, no impossibilities.
 
 # 11 files, no impossibilities in 1 directories.
 
@@ -271,6 +273,6 @@ serve:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Nov  4 17:37:23 2025
+# Finished Make data base on Mon Nov 10 10:21:40 2025
 
  
