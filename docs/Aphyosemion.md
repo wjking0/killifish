@@ -222,6 +222,21 @@
   <figcaption>Aphyosemion polli CI [2] </figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-rectogoense_0031_GOOD.jpg" />
+  <figcaption>Aphyosemion rectogoense PEG 95/16 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-rectogoense_0037_GOOD.jpg" />
+  <figcaption>Aphyosemion rectogoense PEG 95/16 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-rectogoense_0080_GOOD.jpg" />
+  <figcaption>Aphyosemion rectogoense PEG 95/16 [3]</figcaption>
+</figure>
+
 ## Sub-genus: Kathetys Group: exiguum
 
 <figure>
