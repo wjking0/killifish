@@ -208,6 +208,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-plagiatanum_0234_OK.jpg" />
+  <figcaption>Aphyosemion plagitaenium 'Epoma' </figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_polli_CI_DSC_3455_BEST.jpg" />
   <figcaption>Aphyosemion polli CI [1] </figcaption>
 </figure>
