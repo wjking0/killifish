@@ -20,6 +20,16 @@
   <figcaption>Fundulopanchax sjoestedti 'Niger delta' [4]</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-sjoestedti_dwarf_red_0358_OK.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'dwarf red' </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-sjoestedti_dwarf_red_0361_OK.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'dwarf red' </figcaption>
+</figure>
+
 ## Sub-Genera: Paraphyosemion
 
 <figure>
@@ -80,6 +90,16 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-F_mirablis_DSC_6181.jpg" />
   <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0146_OK.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0178_GOOD.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [2]</figcaption>
 </figure>
 
 <figure>
