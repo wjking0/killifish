@@ -33,6 +33,11 @@
 ## Sub-Genera: Paraphyosemion
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-F_cinnamomeus_Flare_DSC_2171-Enhanced-NR.jpg" />
+  <figcaption>Fundulopanchax cinnamomeus male</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-DSC_5321-F_marmoratus_Enhanced-NR.jpg" />
   <figcaption>Fundulopanchax marmoratus 'Mbonge' male [1]</figcaption>
 </figure>
@@ -55,16 +60,6 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_marmoratus_Bokassi_Camp_ADL_13-57_DSC_2793_GOOD.jpg" />
   <figcaption>Fundulopanchax marmoratus 'Bokassi Camp' ADL 13/57 [2]</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-F_cinnamomeus_Flare_DSC_2171-Enhanced-NR.jpg" />
-  <figcaption>Fundulopanchax cinnamomeus male</figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-F_walkeri_DSC_3907.jpg" />
-  <figcaption>Fundulopanchax walkeri 'Abidjan'</figcaption>
 </figure>
 
 <figure>
@@ -115,6 +110,31 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7877_tinto_LR.jpg" />
   <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0378_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0392_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0429_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0439_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-F_walkeri_DSC_3907.jpg" />
+  <figcaption>Fundulopanchax walkeri 'Abidjan'</figcaption>
 </figure>
 
 ## Sub-Genera: Paludopanchax
