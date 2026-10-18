@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 site_name: thekillifish.net
+=======
+site_name: Killifish
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
 site_url: https://wjking0.github.io/killifish/
 site_description: Killifish documentation with Markdown.
 site_author: wking0@gmail.com
 
+<<<<<<< HEAD
 #repo_url: https://github.com/wjking0/killifish
 edit_uri: ""
 
@@ -51,6 +56,13 @@ nav:
 #  - For Sale: For_Sale.md
 #  - Pictures: Pictures.md
 #  - Links: links.md
+=======
+repo_url: https://github.com/wjking0/killifish
+edit_uri: ""
+
+nav:
+- Home: killifish_howtos.md
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
 
 
 theme:
@@ -59,6 +71,7 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
+<<<<<<< HEAD
   logo: index_ATTACHMENTS/favicon3.jpg
   favicon: index_ATTACHMENTS/favicon3.jpg
 
@@ -74,6 +87,12 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
+=======
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
 # extra_css:
 #     - css/extra.css
 
