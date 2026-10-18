@@ -1,12 +1,25 @@
+<<<<<<< HEAD
 site_name: Killifish
+=======
+<<<<<<< HEAD
+site_name: thekillifish.net
+=======
+site_name: Killifish
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
+>>>>>>> master
 site_url: https://wjking0.github.io/killifish/
 site_description: Killifish documentation with Markdown.
 site_author: wking0@gmail.com
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 #repo_url: https://github.com/wjking0/killifish
 edit_uri: ""
 
 nav:
+<<<<<<< HEAD
 - Home: index.md
 - Porridge Cultured Vinegar Eels:
   - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
@@ -25,14 +38,65 @@ nav:
 - Links:
   - Links: links.md
 
+=======
+- thekillifish.net:  index.md
+- Infusoria: infusoria.md
+>>>>>>> master
 - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp: bbs.md
 - Grindal Worms: grindal_worms.md
 - White Worms: white_worms.md
 - Fruit fly maggots: fruit_flies.md
+<<<<<<< HEAD
 - For Sale: For_Sale.md
 - Pictures: Pictures.md
 - Links: links.md
+=======
+- Pictures: 
+  - Aphyosemion: Aphyosemion.md
+  - Aplocheilus: Aplocheilus.md
+  - Austrolebias: Austrolebias.md
+  - Callopanchax: Callopanchax.md
+  - Chromaphyosemion: Chromaphyosemion.md
+  - Campellolebias: Campellolebias.md
+#  - Diapteron: Diapteron.md
+  - Epiplatys: Epiplatys.md
+  - Fundulopanchax: Fundulopanchax.md
+  - Fundulosoma: Fundulosoma.md
+  - Fundulus: Fundulus.md
+  - Maratecoara: Maratecoara.md
+  - Nematolebias: Nematolebias.md
+  - Neofundulus: Neofundulus.md
+  - Nothobranchius: Nothobranchius.md
+  - Ophthalmolebias: Ophthalmolebias.md
+  - Pachypanchax: Pachypanchax.md
+  - Pituna: Pituna.md
+  - Procatopus: Procatopus.md
+  - Rivulus-types: SA_non_annuals.md
+  - Roloffia-types: Roloffia.md
+  - Simpsonichthys: Simpsonichthys.md
+- Links: links.md
+- For Sale: For_Sale.md
+- BKA West London Group: BKA_West_London.md
+
+#- Home:
+#  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+#  - Home: index.md
+#  - Baby Brine Shrimp: bbs.md
+#  - Grindal Worms: grindal_worms.md
+#  - White Worms: white_worms.md
+#  - Fruit fly maggots: fruit_flies.md
+#  - For Sale: For_Sale.md
+#  - Pictures: Pictures.md
+#  - Links: links.md
+=======
+repo_url: https://github.com/wjking0/killifish
+edit_uri: ""
+
+nav:
+- Home: killifish_howtos.md
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
+>>>>>>> master
 
 
 theme:
@@ -41,10 +105,34 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  logo: index_ATTACHMENTS/favicon3.jpg
+  favicon: index_ATTACHMENTS/favicon3.jpg
+
+  features:
+    - content.code.annotate
+  #  - navigation.expand
+  #  - navigation.sections
+  #  - navigation.tabs
+  #  - navigation.tabs.sticky
+  #  - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+=======
+>>>>>>> master
 
   features:
     - navigation.tabs
     - navigation.sections
+<<<<<<< HEAD
+=======
+>>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
+>>>>>>> master
 # extra_css:
 #     - css/extra.css
 
