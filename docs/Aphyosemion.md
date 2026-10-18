@@ -169,17 +169,42 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-sp.Lake-Mai_7951_GOOD.jpg" />
-  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [1]</figcaption>
+  <figcaption>Aphyosemion spec. aff elegans 'Lake Mai Ndombe CIR 2017' [1]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-sp.Lake-Mai_7855_OK.jpg" />
-  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [2]</figcaption>
+  <figcaption>Aphyosemion spec. aff elegans 'Lake Mai Ndombe CIR 2017' [2]</figcaption>
 </figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-A.so.Lake_Mai_NDombe_6381.jpg" />
-  <figcaption>Aphyosemion sp. aff elegans 'Lake Mai Ndombe CIR 2017' [3]</figcaption>
+  <figcaption>Aphyosemion spec. aff elegans 'Lake Mai Ndombe CIR 2017' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Oyo_0756.jpg" />
+  <figcaption>Aphyosemion spec. Oyo RPC 91-08 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_0193.jpg" />
+  <figcaption>Aphyosemion spec. Obélé CLC 2022 [1] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_0195.jpg" />
+  <figcaption>Aphyosemion spec. Obélé CLC 2022 [2] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_4271.jpg" />
+  <figcaption>Aphyosemion spec. Obélé CLC 2022 [3] </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_4280.jpg" />
+  <figcaption>Aphyosemion spec. Obélé CLC 2022 [4] </figcaption>
 </figure>
 
 <figure>
