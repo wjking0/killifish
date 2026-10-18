@@ -1,0 +1,191 @@
+## Sub-Genera: Gularopanchax
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2674.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2689.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2697.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_sjoestedti_ND_DSC_2671.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'Niger delta' [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-sjoestedti_dwarf_red_0358_OK.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'dwarf red' </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-sjoestedti_dwarf_red_0361_OK.jpg" />
+  <figcaption>Fundulopanchax sjoestedti 'dwarf red' </figcaption>
+</figure>
+
+## Sub-Genera: Paraphyosemion
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190619-F_cinnamomeus_Flare_DSC_2171-Enhanced-NR.jpg" />
+  <figcaption>Fundulopanchax cinnamomeus male</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-DSC_5321-F_marmoratus_Enhanced-NR.jpg" />
+  <figcaption>Fundulopanchax marmoratus 'Mbonge' male [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20210303-F_marmoratus_DSC_5313-Enhanced-NR.jpg" />
+  <figcaption>Fundulopanchax marmoratus 'Mbonge' male [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_marmoratus_Mbonge_female.png" />
+  <figcaption>Fundulopanchax marmoratus 'Mbonge' female [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_marmoratus_Bokassi_Camp_ADL_13-57_DSC_2964_GOOD.jpg" />
+  <figcaption>Fundulopanchax marmoratus 'Bokassi Camp' ADL 13/57 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_marmoratus_Bokassi_Camp_ADL_13-57_DSC_2793_GOOD.jpg" />
+  <figcaption>Fundulopanchax marmoratus 'Bokassi Camp' ADL 13/57 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mamfensis_Bachuo_Akagbe_2017_DSC_2364.jpg" />
+  <figcaption>Fundulopanchax gardneri mamfensis 'Bachuo_Akagbe' 2017</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_g.mamfensis_Satom_CGVPM_15-9_DSC_2893_GOOD.jpg" />
+  <figcaption>Fundulopanchax gardneri mamfensis 'Satom' CGVPM 2015/9</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gardneri_nigerianus_gold.jpg" />
+  <figcaption>Fundulopanchax gardneri nigerianus</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7860_lacustris_LR.jpg" />
+  <figcaption>Fundulopanchax gardneri lacustris</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-F_mirablis_DSC_6181.jpg" />
+  <figcaption>Fundulopanchax mirabilis 'Nchemba' ADL 13-30</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0146_OK.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0178_GOOD.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230417-Fundulopanchax_traudeae.jpg" />
+  <figcaption>Fundulopanchax moensis</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0633_takwei_LR.jpg" />
+  <figcaption>Fundulopanchax gresensi 'Takwei'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20220917-DSC_7877_tinto_LR.jpg" />
+  <figcaption>Fundulopanchax intermittens 'Tinto'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0378_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0392_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0429_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260421-spoorenbergi_0439_OK.jpg" />
+  <figcaption>Fundulopanchax spoorenbergi</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20191104-F_walkeri_DSC_3907.jpg" />
+  <figcaption>Fundulopanchax walkeri 'Abidjan'</figcaption>
+</figure>
+
+## Sub-Genera: Paludopanchax
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7206.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7214.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7257.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7256.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7272.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [5]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_GOOD_7206.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [6]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8790_filamentosus_male_LR.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' male [7]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20250523_F_filamentosus_ikeja_female_BEST_7176.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' female [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20230131-filamentosus_female_DSC_8568.jpg" />
+  <figcaption>Fundulopanchax filamentosus 'Ikeja' female [2]]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20190521-DSC_0841_arnoldi_LR.jpg" />
+  <figcaption>Fundulopanchax arnoldi 'Niger Delta NG 2016' </figcaption>
+</figure>
+
