@@ -1,4 +1,4 @@
-site_name: thekillifish.net
+site_name: Killifish
 site_url: https://wjking0.github.io/killifish/
 site_description: Killifish documentation with Markdown.
 site_author: wking0@gmail.com
@@ -7,50 +7,32 @@ site_author: wking0@gmail.com
 edit_uri: ""
 
 nav:
-- thekillifish.net:  index.md
-- Infusoria: infusoria.md
+- Home: index.md
+- Porridge Cultured Vinegar Eels:
+  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+- Baby Brine Shrimp:
+  - Baby Brine Shrimp: bbs.md
+- Grindal Worms:
+  - Grindal Worms: grindal_worms.md
+- White Worms:
+  - White Worms: white_worms.md
+- Fruit fly maggots:
+  - Fruit fly maggots: fruit_flies.md
+- For Sale:
+  - For Sale: For_Sale.md
+- Pictures:
+  - Pictures: Pictures.md
+- Links:
+  - Links: links.md
+
 - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
 - Baby Brine Shrimp: bbs.md
 - Grindal Worms: grindal_worms.md
 - White Worms: white_worms.md
 - Fruit fly maggots: fruit_flies.md
-- Pictures: 
-  - Aphyosemion: Aphyosemion.md
-  - Aplocheilus: Aplocheilus.md
-  - Austrolebias: Austrolebias.md
-  - Callopanchax: Callopanchax.md
-  - Chromaphyosemion: Chromaphyosemion.md
-  - Campellolebias: Campellolebias.md
-#  - Diapteron: Diapteron.md
-  - Epiplatys: Epiplatys.md
-  - Fundulopanchax: Fundulopanchax.md
-  - Fundulosoma: Fundulosoma.md
-  - Fundulus: Fundulus.md
-  - Maratecoara: Maratecoara.md
-  - Nematolebias: Nematolebias.md
-  - Neofundulus: Neofundulus.md
-  - Nothobranchius: Nothobranchius.md
-  - Ophthalmolebias: Ophthalmolebias.md
-  - Pachypanchax: Pachypanchax.md
-  - Pituna: Pituna.md
-  - Procatopus: Procatopus.md
-  - Rivulus-types: SA_non_annuals.md
-  - Roloffia-types: Roloffia.md
-  - Simpsonichthys: Simpsonichthys.md
-- Links: links.md
 - For Sale: For_Sale.md
-- BKA West London Group: BKA_West_London.md
-
-#- Home:
-#  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-#  - Home: index.md
-#  - Baby Brine Shrimp: bbs.md
-#  - Grindal Worms: grindal_worms.md
-#  - White Worms: white_worms.md
-#  - Fruit fly maggots: fruit_flies.md
-#  - For Sale: For_Sale.md
-#  - Pictures: Pictures.md
-#  - Links: links.md
+- Pictures: Pictures.md
+- Links: links.md
 
 
 theme:
@@ -59,21 +41,10 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
-  logo: index_ATTACHMENTS/favicon3.jpg
-  favicon: index_ATTACHMENTS/favicon3.jpg
 
   features:
-    - content.code.annotate
-  #  - navigation.expand
-  #  - navigation.sections
-  #  - navigation.tabs
-  #  - navigation.tabs.sticky
-  #  - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
+    - navigation.tabs
+    - navigation.sections
 # extra_css:
 #     - css/extra.css
 
