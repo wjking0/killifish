@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 site_name: thekillifish.net
-=======
-site_name: Killifish
->>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
 site_url: https://wjking0.github.io/killifish/
 site_description: Killifish documentation with Markdown.
 site_author: wking0@gmail.com
 
-<<<<<<< HEAD
 #repo_url: https://github.com/wjking0/killifish
 edit_uri: ""
 
@@ -46,24 +41,6 @@ nav:
 - For Sale: For_Sale.md
 - BKA West London Group: BKA_West_London.md
 
-#- Home:
-#  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-#  - Home: index.md
-#  - Baby Brine Shrimp: bbs.md
-#  - Grindal Worms: grindal_worms.md
-#  - White Worms: white_worms.md
-#  - Fruit fly maggots: fruit_flies.md
-#  - For Sale: For_Sale.md
-#  - Pictures: Pictures.md
-#  - Links: links.md
-=======
-repo_url: https://github.com/wjking0/killifish
-edit_uri: ""
-
-nav:
-- Home: killifish_howtos.md
->>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
-
 
 theme:
   name: material
@@ -71,42 +48,21 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
-<<<<<<< HEAD
   logo: index_ATTACHMENTS/favicon3.jpg
   favicon: index_ATTACHMENTS/favicon3.jpg
 
   features:
     - content.code.annotate
   #  - navigation.expand
-  #  - navigation.sections
+    - navigation.sections
   #  - navigation.tabs
   #  - navigation.tabs.sticky
   #  - navigation.top
-    - navigation.tracking
+  #  - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-=======
-
-  features:
-    - navigation.tabs
-    - navigation.sections
->>>>>>> 35f0b55 (Deployed  with MkDocs version: 1.1.2)
-# extra_css:
-#     - css/extra.css
-
-# markdown_extensions:
-#     - toc:
-#         permalink: 
-#     - admonition
-#     - def_list
-#     - mdx_gh_links:
-#         user: mkdocs
-#         repo: mkdocs
-
-# copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
-# google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
 plugins:
     - search
