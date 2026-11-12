@@ -64,5 +64,3 @@ theme:
     - search.suggest
     - toc.follow
 
-plugins:
-    - search
