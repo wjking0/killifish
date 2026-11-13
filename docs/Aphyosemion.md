@@ -183,27 +183,27 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Oyo_0756.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Oyo_0756.jpg" />
   <figcaption>Aphyosemion spec. Oyo RPC 91-08 </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_0193.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_BEST_1430.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [1] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_0195.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_0195.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [2] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_4271.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_4271.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [3] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_sp_Obele_4280.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_4280.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [4] </figcaption>
 </figure>
 
