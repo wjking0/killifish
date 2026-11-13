@@ -9,7 +9,16 @@ edit_uri: ""
 nav:
 - thekillifish.net:  index.md
 - Killifish Pictures: 
-  - Aphyosemion: Aphyosemion.md
+  - Aphyosemion: 
+    - Group calliurum: Aphyosemion_calliurum.md
+    - Group cameronense: Aphyosemion_calliurum.md
+    - Group coeleste: Aphyosemion_calliurum.md
+    - Group elegans: Aphyosemion_calliurum.md
+    - Group hera: Aphyosemion_calliurum.md
+    - Group herzogi: Aphyosemion_calliurum.md
+    - Group ogoense: Aphyosemion_calliurum.md
+    - calliurum: Aphyosemion_calliurum.md
+    - Sub-group kathetys: Aphyosemion_kathetys.md
   - Aplocheilus: Aplocheilus.md
   - Austrolebias: Austrolebias.md
   - Callopanchax: Callopanchax.md
