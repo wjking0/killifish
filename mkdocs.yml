@@ -11,14 +11,16 @@ nav:
 - Killifish Pictures: 
   - Aphyosemion: 
     - Group calliurum: Aphyosemion_calliurum.md
-    - Group cameronense: Aphyosemion_calliurum.md
-    - Group coeleste: Aphyosemion_calliurum.md
-    - Group elegans: Aphyosemion_calliurum.md
-    - Group hera: Aphyosemion_calliurum.md
-    - Group herzogi: Aphyosemion_calliurum.md
-    - Group ogoense: Aphyosemion_calliurum.md
-    - calliurum: Aphyosemion_calliurum.md
+    - Group cameronense: Aphyosemion_cameronense.md
+    - Group coeleste: Aphyosemion_coeleste.md
+    - Group elegans: Aphyosemion_elegans.md
+    - Group hera: Aphyosemion_hera.md
+    - Group herzogi: Aphyosemion_herzogi.md
     - Sub-group kathetys: Aphyosemion_kathetys.md
+    - Group ogoense: Aphyosemion_ogoense.md
+    - Group striatum: Aphyosemion_striatum.md
+    - Group wildekampi: Aphyosemion_wildekampi.md
+
   - Aplocheilus: Aplocheilus.md
   - Austrolebias: Austrolebias.md
   - Callopanchax: Callopanchax.md
