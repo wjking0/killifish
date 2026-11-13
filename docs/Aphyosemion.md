@@ -262,7 +262,7 @@
   <figcaption>Aphyosemion rectogoense PEG 95/16 [3]</figcaption>
 </figure>
 
-## Sub-genus: Kathetys Group: exiguum
+## Sub-genus: Kathetys
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_dargei_Ndjore_Mfele_JVC_17-20_4037_GOOD.jpg" />
