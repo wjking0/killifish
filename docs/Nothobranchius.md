@@ -31,18 +31,18 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_GOOD_1864.jpg" />
-  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_1864.jpg" />
+  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21 [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_GOOD_1864.jpg" />
-  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_2064.jpg" />
+  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21 [2]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_GOOD_1864.jpg" />
-  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21</figcaption>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_2280.jpg" />
+  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21 [3]</figcaption>
 </figure>
 
 <figure>
