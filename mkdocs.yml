@@ -8,7 +8,7 @@ edit_uri: ""
 
 nav:
 - thekillifish.net:  index.md
-- Pictures: 
+- Killifish Pictures: 
   - Aphyosemion: Aphyosemion.md
   - Aplocheilus: Aplocheilus.md
   - Austrolebias: Austrolebias.md
@@ -31,12 +31,13 @@ nav:
   - Rivulus-types: SA_non_annuals.md
   - Roloffia-types: Roloffia.md
   - Simpsonichthys: Simpsonichthys.md
-- Infusoria: infusoria.md
-- Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
-- Baby Brine Shrimp: bbs.md
-- Grindal Worms: grindal_worms.md
-- White Worms: white_worms.md
-- Fruit fly maggots: fruit_flies.md
+- Live food cultures:
+  - Infusoria: infusoria.md
+  - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
+  - Baby Brine Shrimp: bbs.md
+  - Grindal Worms: grindal_worms.md
+  - White Worms: white_worms.md
+  - Fruit fly maggots: fruit_flies.md
 - Links: links.md
 - For Sale: For_Sale.md
 #- BKA West London Group: BKA_West_London.md
