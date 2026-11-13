@@ -329,13 +329,23 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_8306_kompina_LR.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_CO3_14_GREAT_3314.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8275_kompina_LR.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_CO3_14_GREAT_3337.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Kompina_CO3_14_GREAT_3424.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20221204-DSC_8275_kompina_LR.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Kompina' CO3/14 [4]</figcaption>
 </figure>
 
 <figure>

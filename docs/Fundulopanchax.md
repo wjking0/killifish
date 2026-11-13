@@ -88,13 +88,28 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0146_OK.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mirablis_moensis_CI24_BEST_3555.jpg" />
   <figcaption>Fundulopanchax moensis CI24 [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0178_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mirablis_moensis_CI24_GREAT_3544.jpg" />
   <figcaption>Fundulopanchax moensis CI24 [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mirablis_moensis_CI24_GREAT_3559.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0146_OK.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-Fundulopanchax_moensis_CI24_0178_GOOD.jpg" />
+  <figcaption>Fundulopanchax moensis CI24 [5]</figcaption>
 </figure>
 
 <figure>
