@@ -18,3 +18,8 @@
   <figcaption>Pachypanchax arnoulti</figcaption>
 </figure>
 
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Pachypanchax_sakaramyi_0362.jpg" />
+  <figcaption>Pachypanchax sakaramyi</figcaption>
+</figure>
