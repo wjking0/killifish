@@ -64,4 +64,7 @@ theme:
   #  - search.share
   #  - search.suggest
     - toc.follow
+plugins:
+  - search
+  - glightbox
 
