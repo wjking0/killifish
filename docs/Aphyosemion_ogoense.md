@@ -1,6 +1,3 @@
-## Group: ogoense
-
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-A_louessense_4817_GOOD.jpg" />
   <figcaption>Aphyosemion louessense RPC 78-33 [1]</figcaption>

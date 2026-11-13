@@ -1,5 +1,3 @@
-## Group: coeleste
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-coeleste_6564.jpg" />
   <figcaption>Aphyosemion coeleste GAB BBA 90-30 [1] [Group: coeleste]</figcaption>

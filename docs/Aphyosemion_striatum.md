@@ -1,5 +1,3 @@
-## Group: striatum
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-A_exigoidium_DSC_6210.jpg" />
   <figcaption>Aphyosemion exigoideum BBW 00-3</figcaption>

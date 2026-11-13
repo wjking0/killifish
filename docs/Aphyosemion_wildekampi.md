@@ -1,5 +1,3 @@
-## Group: wildekampi
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250922-puntatum_GOOD_7887.jpg" />
   <figcaption>Aphyosemion punctatum "Boone Bai" </figcaption>

@@ -1,5 +1,3 @@
-## Sub-genus: Kathetys
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20241101-Aphyosemion_dargei_Ndjore_Mfele_JVC_17-20_4037_GOOD.jpg" />
   <figcaption>Aphyosemion dargei 'Ndjoré Mfele' JVC 17/20 [1]</figcaption>

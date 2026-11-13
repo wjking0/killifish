@@ -1,5 +1,3 @@
-## Group: hera
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0654_hera_LR.jpg" />
   <figcaption>Aphyosemion hera </figcaption>

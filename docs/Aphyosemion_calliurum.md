@@ -1,5 +1,3 @@
-## Group: calliurum
-
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7855_australe_enhanced.jpg" />
   <figcaption>Aphyosemion australe Gold [1]</figcaption>
