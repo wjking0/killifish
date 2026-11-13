@@ -1,4 +1,3 @@
-#### Fundulosoma
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250112-Fundulosoma_thierryi-GOOD-4598.jpg" />

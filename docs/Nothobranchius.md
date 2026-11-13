@@ -30,6 +30,11 @@
   <figcaption>Nothobranchius kilomberoensis 'Ifakara' TAN 95/4</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nothobranchius_guentheri_Mahonda_Zangar_21_female_1979.jpg" />
+  <figcaption>Nothobranchius guentheri 'Mahonda' Zangar 21 female</figcaption>
+</figure>
+
 ## Group: N.melanospilus
 
 <figure>

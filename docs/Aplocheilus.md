@@ -1,4 +1,3 @@
-## Genus: Aplocheilus
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Aplocheilus_panchax_Phu_GOOD_0712.jpg" />

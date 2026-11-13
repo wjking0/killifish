@@ -198,12 +198,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_4271.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_1352.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [3] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_4280.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_1460.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [4] </figcaption>
 </figure>
 

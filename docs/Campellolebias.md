@@ -1,4 +1,3 @@
-#### Campellolebias
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20241021-Campellolebias_brucei_TT_Icara_3625_GREAT.jpg" />

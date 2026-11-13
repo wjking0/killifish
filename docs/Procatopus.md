@@ -1,4 +1,3 @@
-### Procatopus
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_0358_procatapus_similis_LR.jpg" />
