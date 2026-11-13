@@ -188,12 +188,12 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_BEST_1430.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_1430.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [1] </figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_0195.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Aphyosemion_spec_Obele_CLC_2022_1480.jpg" />
   <figcaption>Aphyosemion spec. Obélé CLC 2022 [2] </figcaption>
 </figure>
 
