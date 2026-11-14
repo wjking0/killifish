@@ -39,18 +39,24 @@ nav:
     - Pachypanchax: Pachypanchax.md
     - Procatopus: Procatopus.md
     - Scriptaphyosemion: scriptaphyosemion.md
-  - America:
+  - South America:
     - Austrolebias: Austrolebias.md
     - Campellolebias: Campellolebias.md
-    - Fundulus: Fundulus.md
     - Hypsolebias: Hypsolebias.md
     - Maratecoara: Maratecoara.md
     - Nematolebias: Nematolebias.md
     - Neofundulus: Neofundulus.md
     - Ophthalmolebias: Ophthalmolebias.md
     - Pituna: Pituna.md
-    - Rivulus-types: SA_non_annuals.md
+    - Rivulus:
+        - Anablepsoides: anablepsoides.md
+        - Cynodonichthys: cynodonichthys.md
+        - Laimosemion: laimosemion.md
+        - Oditichthys: oditichthys.md
+        - Rivulus: rivulus.md
     - Simpsonichthys: Simpsonichthys.md
+  - North America:
+    - Fundulus: Fundulus.md
   - Asia:
     - Aplocheilus: Aplocheilus.md
 - Live food cultures:
