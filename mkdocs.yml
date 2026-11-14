@@ -31,7 +31,10 @@ nav:
       - Group fasciolatus: Epiplatys_fasciolatus.md
       - Group sexfasciatus: Epiplatys_sexfasciatus.md
       - Group spilargyreis: Epiplatys_spilargyreius.md
-  - Fundulopanchax: Fundulopanchax.md
+  - Fundulopanchax: 
+      - Group gularopanchax: Fundulopanchax_gularopanchax.md
+      - Group paludopanchax: Fundulopanchax_paludopanchax.md
+      - Group paraphyosemion: Fundulopanchax_paraphyosemion.md
   - Fundulosoma: Fundulosoma.md
   - Fundulus: Fundulus.md
   - Hypsolebias: Hypsolebias.md
