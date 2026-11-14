@@ -22,18 +22,28 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-petersi_0051_GOOD.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_3232_GOOD.jpg" />
   <figcaption>Nimbapanchax petersi 'Banco Park' [1]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_3335_BEST.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_3232_GOOD.jpg" />
   <figcaption>Nimbapanchax petersi 'Banco Park' [2]</figcaption>
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_2315.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/20260420-petersi_0051_GOOD.jpg" />
   <figcaption>Nimbapanchax petersi 'Banco Park' [3]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_3335_BEST.jpg" />
+  <figcaption>Nimbapanchax petersi 'Banco Park' [4]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_2315.jpg" />
+  <figcaption>Nimbapanchax petersi 'Banco Park' [5]</figcaption>
 </figure>
 
 ## Genera: Scriptaphyosemion
