@@ -8,50 +8,51 @@ edit_uri: ""
 
 nav:
 - thekillifish.net:  index.md
-- Africa:
-  - Aphyosemion: 
-    - Group calliurum: Aphyosemion_calliurum.md
-    - Group cameronense: Aphyosemion_cameronense.md
-    - Group coeleste: Aphyosemion_coeleste.md
-    - Group elegans: Aphyosemion_elegans.md
-    - Group hera: Aphyosemion_hera.md
-    - Group herzogi: Aphyosemion_herzogi.md
-    - Sub-group kathetys: Aphyosemion_kathetys.md
-    - Group ogoense: Aphyosemion_ogoense.md
-    - Group striatum: Aphyosemion_striatum.md
-    - Group wildekampi: Aphyosemion_wildekampi.md
-  - Archiaphyosemion: Archiaphyosemion.md
-  - Callopanchax: Callopanchax.md
-  - Chromaphyosemion: Chromaphyosemion.md
-  - Diapteron: Diapteron.md
-  - Epiplatys: 
-      - Group fasciolatus: Epiplatys_fasciolatus.md
-      - Group sexfasciatus: Epiplatys_sexfasciatus.md
-      - Group spilargyreius: Epiplatys_spilargyreius.md
-  - Fundulopanchax: 
-      - Group gularopanchax: Fundulopanchax_gularopanchax.md
-      - Group paludopanchax: Fundulopanchax_paludopanchax.md
-      - Group paraphyosemion: Fundulopanchax_paraphyosemion.md
-  - Fundulosoma: Fundulosoma.md
-  - Nimbapanchax: Nimbapanchax.md
-  - Nothobranchius: Nothobranchius.md
-  - Pachypanchax: Pachypanchax.md
-  - Procatopus: Procatopus.md
-  - Scriptaphyosemion: scriptaphyosemion.md
-- America:
-  - Austrolebias: Austrolebias.md
-  - Campellolebias: Campellolebias.md
-  - Fundulus: Fundulus.md
-  - Hypsolebias: Hypsolebias.md
-  - Maratecoara: Maratecoara.md
-  - Nematolebias: Nematolebias.md
-  - Neofundulus: Neofundulus.md
-  - Ophthalmolebias: Ophthalmolebias.md
-  - Pituna: Pituna.md
-  - Rivulus-types: SA_non_annuals.md
-  - Simpsonichthys: Simpsonichthys.md
-- Asia:
-  - Aplocheilus: Aplocheilus.md
+- Killifish Pictures:
+  - Africa:
+    - Aphyosemion: 
+      - Group calliurum: Aphyosemion_calliurum.md
+      - Group cameronense: Aphyosemion_cameronense.md
+      - Group coeleste: Aphyosemion_coeleste.md
+      - Group elegans: Aphyosemion_elegans.md
+      - Group hera: Aphyosemion_hera.md
+      - Group herzogi: Aphyosemion_herzogi.md
+      - Sub-group kathetys: Aphyosemion_kathetys.md
+      - Group ogoense: Aphyosemion_ogoense.md
+      - Group striatum: Aphyosemion_striatum.md
+      - Group wildekampi: Aphyosemion_wildekampi.md
+    - Archiaphyosemion: Archiaphyosemion.md
+    - Callopanchax: Callopanchax.md
+    - Chromaphyosemion: Chromaphyosemion.md
+    - Diapteron: Diapteron.md
+    - Epiplatys: 
+        - Group fasciolatus: Epiplatys_fasciolatus.md
+        - Group sexfasciatus: Epiplatys_sexfasciatus.md
+        - Group spilargyreius: Epiplatys_spilargyreius.md
+    - Fundulopanchax: 
+        - Group gularopanchax: Fundulopanchax_gularopanchax.md
+        - Group paludopanchax: Fundulopanchax_paludopanchax.md
+        - Group paraphyosemion: Fundulopanchax_paraphyosemion.md
+    - Fundulosoma: Fundulosoma.md
+    - Nimbapanchax: Nimbapanchax.md
+    - Nothobranchius: Nothobranchius.md
+    - Pachypanchax: Pachypanchax.md
+    - Procatopus: Procatopus.md
+    - Scriptaphyosemion: scriptaphyosemion.md
+  - America:
+    - Austrolebias: Austrolebias.md
+    - Campellolebias: Campellolebias.md
+    - Fundulus: Fundulus.md
+    - Hypsolebias: Hypsolebias.md
+    - Maratecoara: Maratecoara.md
+    - Nematolebias: Nematolebias.md
+    - Neofundulus: Neofundulus.md
+    - Ophthalmolebias: Ophthalmolebias.md
+    - Pituna: Pituna.md
+    - Rivulus-types: SA_non_annuals.md
+    - Simpsonichthys: Simpsonichthys.md
+  - Asia:
+    - Aplocheilus: Aplocheilus.md
 - Live food cultures:
   - Infusoria: infusoria.md
   - Porridge Cultured Vinegar Eels: vinegar_eel_culture.md
@@ -61,6 +62,7 @@ nav:
   - Fruit fly maggots: fruit_flies.md
 - Links: links.md
 - For Sale: For_Sale.md
+- thekillifish.net:  index.md
 #- BKA West London Group: BKA_West_London.md
 
 
