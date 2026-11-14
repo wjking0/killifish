@@ -123,6 +123,21 @@
   <figcaption>Laimosemion agilae 'Rorata S-FG 2014' [2]</figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Laimosemion_agilae_4375.jpg" />
+  <figcaption>Laimosemion agilae SFA-FG 2025 </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Laimosemion_xiphidius_Maman_Koumarou_S-FG_14_0344_BEST.jpg" />
+  <figcaption>Laimosemion xiphidius 'Maman Koumarou' S-FG_14 </figcaption>
+</figure>
+ 
+ <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Laimosemion_xiphidius_Maman_Koumarou_S-FG_14_0344_BEST.jpg" />
+  <figcaption>Laimosemion xiphidius 'Maman Koumarou' S-FG_14 female </figcaption>
+</figure>
+
 ## Rivulus (Oditichthys)
 
 <figure>
