@@ -27,7 +27,10 @@ nav:
   - Chromaphyosemion: Chromaphyosemion.md
   - Campellolebias: Campellolebias.md
   - Diapteron: Diapteron.md
-  - Epiplatys: Epiplatys.md
+  - Epiplatys: 
+      - Group fasciolatus: Epiplatys_fasciolatus.md
+      - Group sexfasciatus: Epiplatys_sexfasciatus.md
+      - Group spilargyreis: Epiplatys_spilargyreis.md
   - Fundulopanchax: Fundulopanchax.md
   - Fundulosoma: Fundulosoma.md
   - Fundulus: Fundulus.md
