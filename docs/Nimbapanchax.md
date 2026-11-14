@@ -1,11 +1,3 @@
-## Genera: Archiaphyosemion
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/DSC_7057_archiaphyosemion_LR.jpg" />
-  <figcaption>Archiaphyosemion guineense 'Lenghe Curoh' SL93/37</figcaption>
-</figure>
-
-## Genera: Nimbapanchax
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20210302-DSC_4852-Nimbapanchax_Enhanced-NR.jpg" />
   <figcaption>Nimbapanchax viridie 'Village de Balassou' MG 09-20 [1]</figcaption>
@@ -45,16 +37,4 @@
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_DSC_2315.jpg" />
   <figcaption>Nimbapanchax petersi 'Banco Park' [5]</figcaption>
-</figure>
-
-## Genera: Scriptaphyosemion
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20211008-DSC_scripaphyosemion_wiesae_6307.jpg" />
-  <figcaption>Scriptaphyosemion wieseae 'Lenghe Curoh' SL 93-37 </figcaption>
-</figure>
-
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/20250118-Scriptaphyosemion_schmitti_Juarazon_4823_BEST.jpg" />
-  <figcaption>Scriptaphyosemion schmitti 'Jurazon' </figcaption>
 </figure>
