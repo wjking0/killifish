@@ -21,14 +21,15 @@
   <figcaption>Nimbapanchax viridie 'Village de Balassou' MG 09-20 [3]</figcaption>
 </figure>
 
-<figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_3232_GOOD.jpg" />
-  <figcaption>Nimbapanchax petersi 'Banco Park' [1]</figcaption>
-</figure>
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_3294_GOOD.jpg" />
   <figcaption>Nimbapanchax petersi 'Banco Park' [2]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Nimbapanchax_petersi_Banco_park_3232_GOOD.jpg" />
+  <figcaption>Nimbapanchax petersi 'Banco Park' [1]</figcaption>
 </figure>
 
 <figure>
