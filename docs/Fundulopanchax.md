@@ -73,6 +73,16 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gardneri_akure_0042.jpg" />
+  <figcaption>Fundulopanchax gardneri clauseni 'Akure'</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gardneri_Nsukka_4228.jpg" />
+  <figcaption>Fundulopanchax gardneri 'Nsukka'</figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_mamfensis_Bachuo_Akagbe_2017_DSC_2364.jpg" />
   <figcaption>Fundulopanchax gardneri mamfensis 'Bachuo_Akagbe' 2017</figcaption>
 </figure>

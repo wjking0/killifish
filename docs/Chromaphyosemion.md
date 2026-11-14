@@ -377,3 +377,8 @@
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250414-C_volcanum_Muyuka_6347.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 [2]</figcaption>
 </figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chromaphyosemion_volcanum_Muyuka_CITA_22_1_Female_1327.jpg" />
+  <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 female</figcaption>
+</figure>
