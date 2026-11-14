@@ -74,7 +74,12 @@
 
 <figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gardneri_akure_0042.jpg" />
-  <figcaption>Fundulopanchax gardneri clauseni 'Akure'</figcaption>
+  <figcaption>Fundulopanchax gardneri clauseni 'Akure' [1]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_clasensi_Akure_DSC_3324.jpg" />
+  <figcaption>Fundulopanchax gardneri clauseni 'Akure' [2]</figcaption>
 </figure>
 
 <figure>

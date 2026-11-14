@@ -129,7 +129,7 @@
 </figure>
 
 <figure>
-  <img src="https://thekillifish.net/index_ATTACHMENTS/Laimosemion_xiphidius_Maman_Koumarou_S-FG_14_0344_BEST.jpg" />
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Laimosemion_xiphidius_Maman_Koumarou_S-FG_14_female_BEST_4400.jpg" />
   <figcaption>Laimosemion xiphidius 'Maman Koumarou' S-FG_14 </figcaption>
 </figure>
  
