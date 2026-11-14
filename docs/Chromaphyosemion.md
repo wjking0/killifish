@@ -369,6 +369,11 @@
 </figure>
 
 <figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Chrom_volcanum_Mosaka_BEST_0264.jpg" />
+  <figcaption>Chromaphyosemion volcanum Mosaka Kamerun 2017 </figcaption>
+</figure>
+
+<figure>
   <img src="https://thekillifish.net/index_ATTACHMENTS/20250904-Muyuka_Good_7724.jpg" />
   <figcaption>Chromaphyosemion volcanum 'Muyuka' CITA 22/1 [1]</figcaption>
 </figure>
