@@ -30,6 +30,16 @@
   <figcaption>Fundulopanchax sjoestedti 'dwarf red' </figcaption>
 </figure>
 
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gularis_BEST_1032.jpg" />
+  <figcaption>Fundulopanchax gularis </figcaption>
+</figure>
+
+<figure>
+  <img src="https://thekillifish.net/index_ATTACHMENTS/Fundulopanchax_gularis_female_1002.jpg" />
+  <figcaption>Fundulopanchax gularis  female </figcaption>
+</figure>
+
 ## Sub-Genera: Paraphyosemion
 
 <figure>
