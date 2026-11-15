@@ -49,11 +49,11 @@ nav:
     - Ophthalmolebias: Ophthalmolebias.md
     - Pituna: Pituna.md
     - Rivulus:
-        - Anablepsoides: anablepsoides.md
-        - Cynodonichthys: cynodonichthys.md
-        - Laimosemion: laimosemion.md
-        - Oditichthys: oditichthys.md
-        - Rivulus: rivulus.md
+        - Anablepsoides: Anablepsoides.md
+        - Cynodonichthys: Cynodonichthys.md
+        - Laimosemion: Laimosemion.md
+        - Oditichthys: Oditichthys.md
+        - Rivulus: Rivulus.md
     - Simpsonichthys: Simpsonichthys.md
   - North America:
     - Fundulus: Fundulus.md
