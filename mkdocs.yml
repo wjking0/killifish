@@ -83,7 +83,7 @@ theme:
 
   features:
     - content.code.annotate
-  #  - navigation.expand
+    - navigation.expand
     - navigation.sections
   #  - navigation.tabs
   #  - navigation.tabs.sticky
