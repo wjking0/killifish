@@ -23,7 +23,19 @@ nav:
       - Group wildekampi: Aphyosemion_wildekampi.md
     - Archiaphyosemion: Archiaphyosemion.md
     - Callopanchax: Callopanchax.md
-    - Chromaphyosemion: Chromaphyosemion.md
+    - Chromaphyosemion: 
+      - species alpha: Chromaphyosemion_alpha.md
+      - species bitaeniatum: Chromaphyosemion_bitaeniatum.md
+      - species bivittatum: Chromaphyosemion_bivittatum.md
+      - species koungueense: Chromaphyosemion_koungueense.md
+      - species loennbergii: Chromaphyosemion_loennbergii.md
+      - species malumbresi: Chromaphyosemion_malumbresi.md
+      - species melinoides: Chromaphyosemion_melinoides.md
+      - species omega: Chromaphyosemion_omega.md
+      - species poliaki: Chromaphyosemion_poliaki.md
+      - species riggenbachi: Chromaphyosemion_riggenbachi.md
+      - species splendopleure: Chromaphyosemion_splendopleure.md
+      - species volcanum: Chromaphyosemion_volcanum.md
     - Diapteron: Diapteron.md
     - Epiplatys: 
         - Group fasciolatus: Epiplatys_fasciolatus.md
